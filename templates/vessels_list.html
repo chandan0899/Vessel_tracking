@@ -1,0 +1,53 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Vessels</title>
+  <link rel="stylesheet" href="{% static 'CSS/vessels_list.css' %}">
+</head>
+<body style="background-color:#b9d7ff; font-family: 'Segoe UI', sans-serif;">
+
+  <div class="page">
+
+    <!-- 🔍 Search -->
+    <div class="search-section">
+      <input type="text" id="search" placeholder="Vessel Name" />
+      <button id="filter-btn">Search Vessels</button>
+    </div>
+
+    <!-- 📋 Table -->
+    <div class="table-section">
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>Flag</th>
+              <th>Vessel Name / Country</th>
+              <th>Built</th>
+              <th>Type</th>
+              <th>GT</th>
+              <th>DWT</th>
+            </tr>
+          </thead>
+          <tbody id="vessel-table-body">
+            <!-- JS injects rows here -->
+          </tbody>
+        </table>
+      </div>
+      <div class="count-footer">Found <strong id="vessel-count">0</strong> vessels</div>
+    </div>
+
+    <!-- 🔄 Pagination -->
+    <div id="pagination" class="pagination-buttons"></div>
+
+  </div>
+
+  <!-- 🧠 Data Source + Script -->
+  <script>
+    const vesselsJsonUrl = "{% static 'data/vessels_list.json' %}";
+    const flagPath = "{% static 'flags/' %}";
+  </script>
+  <script src="{% static 'JS/vessels_list.js' %}"></script>
+</body>
+</html>

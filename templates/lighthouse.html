@@ -1,0 +1,51 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lighthouses</title>
+  <link rel="stylesheet" href="{% static 'CSS/lighthouse.css' %}">
+</head>
+<body style="background-color:#b9d7ff; font-family: 'Segoe UI', sans-serif;">
+
+  <div class="page">
+
+    <!-- 🔍 Search -->
+    <div class="search-section">
+      <input type="text" id="search" placeholder="Lighthouse Name" />
+      <button id="filter-btn">Search Lighthouses</button>
+    </div>
+
+    <!-- 📋 Table -->
+    <div class="table-section">
+      <table>
+        <thead>
+          <tr>
+            <th>Flag</th>
+            <th>Lighthouse</th>
+            <th>Status</th>
+            <th>Height (m)</th>
+            <th>Range (nmi)</th>
+            <th>More</th>
+          </tr>
+        </thead>
+        <tbody id="lighthouse-table-body">
+          <!-- JS injects rows here -->
+        </tbody>
+      </table>
+      <div class="count-footer">Found <strong id="lighthouse-count">0</strong> lighthouses</div>
+    </div>
+
+    <!-- 🔄 Pagination -->
+    <div id="pagination" class="pagination-buttons"></div>
+
+  </div>
+
+  <!-- 🧠 Script Source -->
+  <script>
+    const lighthousesJsonUrl = "{% static 'data/lighthouses.json' %}";
+    const flagPath = "{% static 'flags/' %}";
+  </script>
+  <script src="{% static 'JS/lighthouse.js' %}"></script>
+</body>
+</html>

@@ -1,0 +1,170 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Vessel Tracking{% endblock %}</title>
+
+    <!-- Box Icons  -->
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <!-- Styles  -->
+    <link rel="stylesheet" href="{% static 'CSS/style.css' %}">
+    <link rel="stylesheet" href="{% static 'CSS/header.css' %}">
+    <link rel="stylesheet" href="{% static 'css/map.css' %}">
+</head>
+
+<body>
+    {% include "header.html" %}
+    <div class="main-container">
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <div class="sidebar close">
+        <!-- ========== Logo ============  -->
+        <a href="#" class="logo-box">
+            <i class='bx bxl-xing'></i>
+            <div class="logo-name">Vessel Tracking</div>
+        </a>
+
+        <!-- ========== List ============  -->
+        <ul class="sidebar-list">
+            <!-- -------- Non Dropdown List Item ------- -->
+            <li>
+                <div class="title">
+                    <a href="{% url 'dashboard' %}" class="link">
+                        <i class='bx bx-grid-alt'></i>
+                        <span class="name">Dashboard</span>
+                    </a>
+                    <!-- <i class='bx bxs-chevron-down'></i> -->
+                </div>
+                <div class="submenu">
+                    <a href="{% url 'dashboard' %}" class="link submenu-title">Dashboard</a>
+                    <!-- submenu links here  -->
+                </div>
+            </li>
+
+            <!-- -------- Dropdown List Item ------- -->
+            <li class="dropdown">
+                <div class="title">
+                    <a href="#" class="link">
+                        <i class='bx bx-filter-alt bx-tada' ></i>
+                        <span class="name">Vessel Filters</span>
+                    </a>
+                    <i class='bx bxs-chevron-down'></i>
+                </div>
+                <div class="submenu">
+                    <a href="#" class="link submenu-title">Vessel Filters</a>
+                    <a href="#" class="link" onclick="return toggleVesselType(event, 'cargo')">Cargo Vessel</a>
+                    <a href="#" class="link" onclick="return toggleVesselType(event, 'tanker')">Tanker</a>
+                    <a href="#" class="link" onclick="return toggleVesselType(event, 'cruise')">Cruise</a>
+                    <a href="#" class="link" onclick="return toggleVesselType(event, 'fishing')">Fishing Ship</a>
+                </div>
+            </li>
+
+            <!-- -------- Dropdown List Item ------- -->
+            <li class="dropdown">
+                <div class="title">
+                    <a href="#" class="link">
+                        <i class='bx bx-map-alt'></i>
+                        <span class="name">Map Type</span>
+                    </a>
+                    <i class='bx bxs-chevron-down'></i>
+                </div>
+                <div class="submenu">
+                    <a href="#" class="link submenu-title">Map Type</a>
+                    <a href="#" class="link" onclick="switchMap('light')">Light Map</a>
+                    <a href="#" class="link" onclick="switchMap('dark')">Dark Map</a>
+                    <a href="#" class="link" onclick="switchMap('satellite')">Satellite Map</a>
+                </div>
+            </li>
+
+            <!-- -------- Non Dropdown List Item ------- -->
+            <li>
+                <div class="title">
+                    <a href="{% url 'ports' %}" class="link">
+                        <i class='bx bx-anchor'></i>
+                        <span class="name">Ports</span>
+                    </a>
+                    <!-- <i class='bx bxs-chevron-down'></i> -->
+                </div>
+                <div class="submenu">
+                    <a href="{% url 'ports' %}" class="link">Ports</a>
+                    <!-- submenu links here  -->
+                </div>
+            </li>
+
+            <!-- -------- Non Dropdown List Item ------- -->
+            <li>
+                <div class="title">
+                    <a href="{% url 'lighthouse' %}" class="link">
+                        <i class='bx bx-broadcast'></i>
+                        <span class="name">Light house</span>
+                    </a>
+                    <!-- <i class='bx bxs-chevron-down'></i> -->
+                </div>
+                <div class="submenu">
+                    <a href="{% url 'lighthouse' %}" class="link submenu-title">Light house</a>
+                    <!-- submenu links here  -->
+                </div>
+            </li>
+
+            <!-- -------- Dropdown List Item ------- -->
+            <li class="dropdown">
+                <div class="title">
+                    <a href="#" class="link">
+                        <i class='bx bx-cloud-lightning bx-tada' ></i>
+                        <span class="name">Weather</span>
+                    </a>
+                    <i class='bx bxs-chevron-down'></i>
+                </div>
+                <div class="submenu">
+                    <a href="#" class="link submenu-title">Weather</a>
+                    <p class="link weather-toggle" data-layer="wind">Wind</p>
+                    <p class="link weather-toggle" data-layer="temperature">Temperature</p>
+                    <p class="link weather-toggle" data-layer="rain">Rain</p>
+                    <p class="link weather-toggle" data-layer="clouds">Cloud Cover</p>
+                </div>
+            </li>
+            
+            <!-- -------- Non Dropdown List Item ------- -->
+            <li>
+                <div class="title">
+                    <a href="{% url 'vessels_list' %}" class="link">
+                        <i class='bx bxs-ship bx-burst' ></i>
+                        <span class="name">Vessels</span>
+                    </a>
+                    <!-- <i class='bx bxs-chevron-down'></i> -->
+                </div>
+                <div class="submenu">
+                    <a href="{% url 'vessels_list' %}" class="link submenu-title">Vessels</a>
+                    <!-- submenu links here  -->
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="map-container">
+        <div id="map"></div>
+    </div>
+    </div>
+    <!-- Map Section -->
+    <!-- ============= Home Section =============== -->
+    <!-- <section class="home"> 
+        <div class="toggle-sidebar">
+            <i class='bx bx-menu'></i>
+            <div class="text">Toggle</div>
+        </div>
+    </section> -->
+
+    <!-- Link JS -->
+    
+    
+    <script>const geojsonUrl = "{% static 'data/vessels.geojson' %}";</script>
+   <script src="{% static '/JS/script.js' %}"></script>
+    <script src="{% static '/JS/map.js' %}"></script>
+</body>
+
+</html>

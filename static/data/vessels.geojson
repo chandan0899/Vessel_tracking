@@ -1,0 +1,6515 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.85286324838161,
+          19.39147737925465
+        ]
+      },
+      "properties": {
+        "id": "vessel_1",
+        "name": "MSC KRYSTAL",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Port of Jeddah, Saudi Arabia",
+        "destination": "Mumbai, india",
+        "eta": "Jun 30, 12:00",
+        "speed": "5.2 kn",
+        "course": "11°",
+        "draught": "10.2 m",
+        "status": "Under way",
+        "last_report": "Jun 6, 06:49 UTC",
+        "gross_tonnage": 43265,
+        "built": 2001,
+        "imo": 9555280,
+        "mmsi": 371661000,
+        "latitude": 19.39147737925465,
+        "longitude": 71.85286324838161
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.02866785541626,
+          18.66406189917063
+        ]
+      },
+      "properties": {
+        "id": "vessel_2",
+        "name": "EMPRESS",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Mormugao",
+        "destination": "Mumbai, india",
+        "eta": "July 5, 07:15",
+        "speed": "13.1  kn",
+        "course": "357 \u00b0",
+        "draught": "7.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41417,
+        "built": 2006,
+        "imo": 8716899,
+        "mmsi": 311000515,
+        "latitude": 18.66406189917063,
+        "longitude": 72.02866785541626
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.24842361420961,
+          18.056975724468064
+        ]
+      },
+      "properties": {
+        "id": "vessel_3",
+        "name": "XIN BEIJING",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Mumbai",
+        "destination": "Colombo, Sri Lanka",
+        "eta": "July 13, 1:00",
+        "speed": "12.8 kn",
+        "course": "160\u00b0",
+        "draught": "12.8 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44615,
+        "built": 2012,
+        "imo": 9314246,
+        "mmsi": 477768100,
+        "latitude": 18.056975724468064,
+        "longitude": 72.24842361420961
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.25817896699427,
+          15.282041347993975
+        ]
+      },
+      "properties": {
+        "id": "vessel_4",
+        "name": "KAVARATTI",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Mormugao",
+        "destination": "LAKSHADWEEP ISLANDS, India",
+        "eta": "Jun 24, 12:00",
+        "speed": "13.1 kn",
+        "course": "236 \u00b0",
+        "draught": "5.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41338,
+        "built": 2018,
+        "imo": 9238260,
+        "mmsi": 419073500,
+        "latitude": 15.282041347993975,
+        "longitude": 73.25817896699427
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02739454545056,
+          15.630670647561669
+        ]
+      },
+      "properties": {
+        "id": "vessel_5",
+        "name": "Hari Priya",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "UAE",
+        "destination": "Chenni Anch, India",
+        "eta": "Jun 25, 19:00",
+        "speed": "0.7 kn",
+        "course": "120\u00b0",
+        "draught": "8.3 m",
+        "status": "Under way",
+        "last_report": "Jun 19, 15:49 UTC",
+        "gross_tonnage": 43564,
+        "built": 2004,
+        "imo": 9281920,
+        "mmsi": 419001831,
+        "latitude": 15.630670647561669,
+        "longitude": 73.02739454545056
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.25792606748125,
+          12.841101518872668
+        ]
+      },
+      "properties": {
+        "id": "vessel_6",
+        "name": "D Space Angels",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Mumbai, india",
+        "eta": "Jun 12, 14:22",
+        "speed": "1.8 kn",
+        "course": "203\u00b0",
+        "draught": "10.4 m",
+        "status": "Under way",
+        "last_report": "July 15, 06:49 UTC",
+        "gross_tonnage": 40160,
+        "built": 2011,
+        "imo": 9252357,
+        "mmsi": 372762000,
+        "latitude": 12.841101518872668,
+        "longitude": 74.25792606748125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.37803993026377,
+          13.020041942662415
+        ]
+      },
+      "properties": {
+        "id": "vessel_7",
+        "name": "Dawn Madurai",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Kochi, India",
+        "eta": "Jun 10, 09:08",
+        "speed": "9.2 kn",
+        "course": "283\u00b0",
+        "draught": "8.8 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42144,
+        "built": 2023,
+        "imo": 9116383,
+        "mmsi": 419000862,
+        "latitude": 13.020041942662415,
+        "longitude": 74.37803993026377
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.42199108202244,
+          12.516178467241739
+        ]
+      },
+      "properties": {
+        "id": "vessel_8",
+        "name": "Western Venture",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Madhurai, India",
+        "eta": "Jun 20, 12:00",
+        "speed": "12.2 kn",
+        "course": "126\u00b0",
+        "draught": "13.5 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 14:49 UTC",
+        "gross_tonnage": 42129,
+        "built": 2019,
+        "imo": 9978767,
+        "mmsi": 477928200,
+        "latitude": 12.516178467241739,
+        "longitude": 74.42199108202244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.96020402339855,
+          9.782121120164453
+        ]
+      },
+      "properties": {
+        "id": "vessel_9",
+        "name": "Sindu",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Vishkapatanam, India",
+        "eta": "Jun 23, 12:00",
+        "speed": "0.5 kn",
+        "course": "49\u00b0",
+        "draught": "7.5 m",
+        "status": "Under way",
+        "last_report": "Jun 23, 15:49 UTC",
+        "gross_tonnage": 40141,
+        "built": 2001,
+        "imo": 9288408,
+        "mmsi": 419801887,
+        "latitude": 9.782121120164453,
+        "longitude": 75.96020402339855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.98177815024425,
+          10.070567241965607
+        ]
+      },
+      "properties": {
+        "id": "vessel_10",
+        "name": "Mimmy",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Colombo, Sri Lanka",
+        "eta": "Jun 11, 12:00",
+        "speed": "7.2 kn",
+        "course": "158\u00b0",
+        "draught": "8.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 12:39 UTC",
+        "gross_tonnage": 43384,
+        "built": 2013,
+        "imo": 9288409,
+        "mmsi": 417222346,
+        "latitude": 10.070567241965607,
+        "longitude": 75.98177815024425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.04764543056903,
+          9.479831550276621
+        ]
+      },
+      "properties": {
+        "id": "vessel_11",
+        "name": "Imula 2184 Gle",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Srilanka",
+        "destination": "Colombo, Sri Lanka",
+        "eta": "Jun 10, 12:00",
+        "speed": "5.2 kn",
+        "course": "333\u00b0",
+        "draught": "6.8 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 14:49 UTC",
+        "gross_tonnage": 44917,
+        "built": 2012,
+        "imo": 9288410,
+        "mmsi": 417218491,
+        "latitude": 9.479831550276621,
+        "longitude": 79.04764543056903
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.62999819137141,
+          10.085873344613024
+        ]
+      },
+      "properties": {
+        "id": "vessel_12",
+        "name": "CORALS",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "kerala",
+        "destination": "Kochi, India",
+        "eta": "Jun 23, 14:00",
+        "speed": "14.6 kn",
+        "course": "265\u00b0",
+        "draught": "4.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44485,
+        "built": 2021,
+        "imo": 9651008,
+        "mmsi": 419000530,
+        "latitude": 10.085873344613024,
+        "longitude": 79.62999819137141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.11343166442347,
+          11.811872593850232
+        ]
+      },
+      "properties": {
+        "id": "vessel_13",
+        "name": "PRIDE OF GOA II",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "kerala",
+        "destination": "Panaji, India",
+        "eta": "Jun 24, 12:00",
+        "speed": "1.2 kn",
+        "course": "116\u00b0",
+        "draught": "2.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41128,
+        "built": 2009,
+        "imo": 8530063,
+        "mmsi": 419902069,
+        "latitude": 11.811872593850232,
+        "longitude": 80.11343166442347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7397355769845,
+          13.088648284628064
+        ]
+      },
+      "properties": {
+        "id": "vessel_14",
+        "name": "INS Anvesh",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "India",
+        "destination": "Tuticorin Anch, India",
+        "eta": "July, 11:00",
+        "speed": "1.2 kn",
+        "course": "128\u00b0",
+        "draught": "6.7 m",
+        "status": "Under way",
+        "last_report": "Jun 16, 15:17 UTC",
+        "gross_tonnage": 41557,
+        "built": 2007,
+        "imo": 9823211,
+        "mmsi": 419100011,
+        "latitude": 13.088648284628064,
+        "longitude": 80.7397355769845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.61866261596536,
+          13.301143033159002
+        ]
+      },
+      "properties": {
+        "id": "vessel_15",
+        "name": "Sanmar Sloka",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Vishkapatanam, India",
+        "eta": "Jun 28, 19:00",
+        "speed": "0.8 kn",
+        "course": "59\u00b0",
+        "draught": "7.8 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 18:49 UTC",
+        "gross_tonnage": 41204,
+        "built": 2009,
+        "imo": 9288681,
+        "mmsi": 419001686,
+        "latitude": 13.301143033159002,
+        "longitude": 80.61866261596536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.54123319089817,
+          17.43273503693686
+        ]
+      },
+      "properties": {
+        "id": "vessel_16",
+        "name": "MSC Tiger F",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Vizhinjm seaport, India",
+        "eta": "Jun 23, 18:00",
+        "speed": "1.2 kn",
+        "course": "130\u00b0",
+        "draught": "8.8 m",
+        "status": "Under way",
+        "last_report": "Jun 16, 15:19 UTC",
+        "gross_tonnage": 40767,
+        "built": 2007,
+        "imo": 9248928,
+        "mmsi": 374391000,
+        "latitude": 17.43273503693686,
+        "longitude": 83.54123319089817
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.71645427715399,
+          19.73413029623662
+        ]
+      },
+      "properties": {
+        "id": "vessel_17",
+        "name": "Rubaiyat Hanif",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "India",
+        "destination": "Chittagong, Bangladesh",
+        "eta": "Jun 12, 8:00",
+        "speed": "9.2 kn",
+        "course": "36\u00b0",
+        "draught": "13.6 m",
+        "status": "Under way",
+        "last_report": "Jun 20, 14:42 UTC",
+        "gross_tonnage": 44536,
+        "built": 2020,
+        "imo": 9403047,
+        "mmsi": 405000375,
+        "latitude": 19.73413029623662,
+        "longitude": 86.71645427715399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.44153698368179,
+          21.380056042692647
+        ]
+      },
+      "properties": {
+        "id": "vessel_18",
+        "name": "Hartati",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "colombo, srilanka",
+        "destination": "Sigapore",
+        "eta": "Jun 29, 20:00",
+        "speed": "11.2 kn",
+        "course": "118\u00b0",
+        "draught": "5.6 m",
+        "status": "Under way",
+        "last_report": "Jun 16, 12:59 UTC",
+        "gross_tonnage": 44283,
+        "built": 2014,
+        "imo": 9266889,
+        "mmsi": 525107020,
+        "latitude": 21.380056042692647,
+        "longitude": 88.44153698368179
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.91564866890546,
+          20.977221839329115
+        ]
+      },
+      "properties": {
+        "id": "vessel_19",
+        "name": "IMPERIUS",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "kerala",
+        "destination": "Krishnapatnam, India",
+        "eta": "Jun 26, 12:00",
+        "speed": "9.2 kn",
+        "course": "135\u00b0",
+        "draught": "18.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41400,
+        "built": 2017,
+        "imo": 9403504,
+        "mmsi": 255915760,
+        "latitude": 20.977221839329115,
+        "longitude": 87.91564866890546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.75084780074641,
+          6.487727337347807
+        ]
+      },
+      "properties": {
+        "id": "vessel_20",
+        "name": "Nautillus",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Penang, Malaysia",
+        "eta": "Jun 29, 12:00",
+        "speed": "3.2 kn",
+        "course": "223\u00b0",
+        "draught": "5.6 m",
+        "status": "Under way",
+        "last_report": "Jun 25, 9:49 UTC",
+        "gross_tonnage": 40201,
+        "built": 2017,
+        "imo": 9376567,
+        "mmsi": 5933000455,
+        "latitude": 6.487727337347807,
+        "longitude": 79.75084780074641
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.92665240778112,
+          5.9301686963778195
+        ]
+      },
+      "properties": {
+        "id": "vessel_21",
+        "name": "Xanadu",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Pangkor Marina, Malaysia",
+        "eta": "Jun 10, 12:00",
+        "speed": "1.2 kn",
+        "course": "96\u00b0",
+        "draught": "6.1 m",
+        "status": "Under way",
+        "last_report": "Jun 26, 16:50 UTC",
+        "gross_tonnage": 40030,
+        "built": 2007,
+        "imo": 9288420,
+        "mmsi": 261032110,
+        "latitude": 5.9301686963778195,
+        "longitude": 79.92665240778112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.55284502285193,
+          8.677456969939753
+        ]
+      },
+      "properties": {
+        "id": "vessel_22",
+        "name": "PAROSHIP",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "India",
+        "destination": "Khalifa Bin Salman, Bahrain",
+        "eta": "Jun 10, 12:00",
+        "speed": "8.2 kn",
+        "course": "113\u00b0",
+        "draught": "18.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42160,
+        "built": 2023,
+        "imo": 9614880,
+        "mmsi": 636022566,
+        "latitude": 8.677456969939753,
+        "longitude": 81.55284502285193
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.10225777686999,
+          7.2512974446530025
+        ]
+      },
+      "properties": {
+        "id": "vessel_23",
+        "name": "Cna Cgn Pnama",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Srilanka",
+        "destination": "Port K klang, Malaysia",
+        "eta": "Jun 10, 12:00",
+        "speed": "1.2 kn",
+        "course": "187\u00b0",
+        "draught": "12.8 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 16:09 UTC",
+        "gross_tonnage": 41537,
+        "built": 2010,
+        "imo": 9839923,
+        "mmsi": 215347000,
+        "latitude": 7.2512974446530025,
+        "longitude": 82.10225777686999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.78868340678726,
+          -7.430279117061847
+        ]
+      },
+      "properties": {
+        "id": "vessel_24",
+        "name": "Ritsuwan Mara",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Malacca Anch, Malaysia",
+        "eta": "Jun 10, 12:00",
+        "speed": "10.2 kn",
+        "course": "207\u00b0",
+        "draught": "2.4 m",
+        "status": "Under way",
+        "last_report": "Jun 17, 16:49 UTC",
+        "gross_tonnage": 40794,
+        "built": 2022,
+        "imo": 8858958,
+        "mmsi": 533132038,
+        "latitude": -7.430279117061847,
+        "longitude": 105.78868340678726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.11842834246755,
+          -6.295284596619115
+        ]
+      },
+      "properties": {
+        "id": "vessel_25",
+        "name": "BUOY6001296 43 9V",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "India",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 30, 12:00",
+        "speed": "1.2 kn",
+        "course": "300\u00b0",
+        "draught": "4.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42372,
+        "built": 2011,
+        "imo": 9288424,
+        "mmsi": 994161493,
+        "latitude": -6.295284596619115,
+        "longitude": 105.11842834246755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.99988040222262,
+          -2.7257728512240322
+        ]
+      },
+      "properties": {
+        "id": "vessel_26",
+        "name": "Gunung Kemala/Pertamina",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Balik papan, Indonesia",
+        "eta": "Jun 10, 12:00",
+        "speed": "0.2 kn",
+        "course": "109\u00b0",
+        "draught": "7.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44796,
+        "built": 2007,
+        "imo": 8508292,
+        "mmsi": 525008029,
+        "latitude": -2.7257728512240322,
+        "longitude": 97.99988040222262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.29528623254127,
+          -5.511411564090527
+        ]
+      },
+      "properties": {
+        "id": "vessel_27",
+        "name": "Glory Prosparity",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Yeosu, Korea",
+        "eta": "Jun 10, 12:00",
+        "speed": "10.2 kn",
+        "course": "11\u00b0",
+        "draught": "14.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40867,
+        "built": 2010,
+        "imo": 9392420,
+        "mmsi": 372895000,
+        "latitude": -5.511411564090527,
+        "longitude": 107.29528623254127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.08455556762326,
+          -6.416438866500567
+        ]
+      },
+      "properties": {
+        "id": "vessel_28",
+        "name": "Nectra",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Balik papan, Indonesia",
+        "eta": "Jun 10, 12:00",
+        "speed": "11.5 kn",
+        "course": "193\u00b0",
+        "draught": "11.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42866,
+        "built": 2006,
+        "imo": 9301017,
+        "mmsi": 525121004,
+        "latitude": -6.416438866500567,
+        "longitude": 109.08455556762326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8781655813505,
+          1.6003628589349828
+        ]
+      },
+      "properties": {
+        "id": "vessel_29",
+        "name": "Kmf Tarjun",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Parjun, Indonesi",
+        "eta": "Jun 10, 12:00",
+        "speed": "4.4 kn",
+        "course": "143\u00b0",
+        "draught": "6.5 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44375,
+        "built": 2016,
+        "imo": 9288428,
+        "mmsi": 525101813,
+        "latitude": 1.6003628589349828,
+        "longitude": 104.8781655813505
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.98835294145674,
+          2.522089723913226
+        ]
+      },
+      "properties": {
+        "id": "vessel_30",
+        "name": "GOMBESSA",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Srilanka",
+        "destination": "Mutsamudu, Comoros",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "263\u00b0",
+        "draught": "4.8 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44249,
+        "built": 2021,
+        "imo": 8733897,
+        "mmsi": 616999154,
+        "latitude": 2.522089723913226,
+        "longitude": 104.98835294145674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.16363222926175,
+          -4.885561576895693
+        ]
+      },
+      "properties": {
+        "id": "vessel_31",
+        "name": "LE JACQUES CARTIER",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Indonasia",
+        "destination": "Waugh Point, USA",
+        "eta": "Aug 20, 12:00",
+        "speed": "15.2 kn",
+        "course": "249\u00b0",
+        "draught": "4.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43129,
+        "built": 2011,
+        "imo": 9852420,
+        "mmsi": 419001380,
+        "latitude": -4.885561576895693,
+        "longitude": 121.16363222926175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.73538983875741,
+          -2.6446685757726827
+        ]
+      },
+      "properties": {
+        "id": "vessel_32",
+        "name": "IMULA 2479 GLE",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "kerala",
+        "destination": "Colombo, Sri Lanka",
+        "eta": "Jun 28, 12:00",
+        "speed": "4.2 kn",
+        "course": "337\u00b0",
+        "draught": "9.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41894,
+        "built": 2020,
+        "imo": 9288431,
+        "mmsi": 417247991,
+        "latitude": -2.6446685757726827,
+        "longitude": 117.73538983875741
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.59265848672997,
+          3.372589003546359
+        ]
+      },
+      "properties": {
+        "id": "LE JACQUES CARTIER",
+        "name": "33",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Bali",
+        "destination": "Malta, Europe",
+        "eta": "July 19, 12:00",
+        "speed": "15.2 kn",
+        "course": "193\u00b0",
+        "draught": "7.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42251,
+        "built": 2013,
+        "imo": 9288432,
+        "mmsi": 419001382,
+        "latitude": 3.372589003546359,
+        "longitude": 120.59265848672997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.3298419560999,
+          5.957583199820901
+        ]
+      },
+      "properties": {
+        "id": "vessel_34",
+        "name": "KSL SANTOS",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Indonasia",
+        "destination": "Port Hedland, Australia",
+        "eta": "July 15, 12:00",
+        "speed": "15.2 kn",
+        "course": "56\u00b0",
+        "draught": "6.1 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42838,
+        "built": 2004,
+        "imo": 9719939,
+        "mmsi": 477518800,
+        "latitude": 5.957583199820901,
+        "longitude": 112.3298419560999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.5261135008239,
+          13.488812557242706
+        ]
+      },
+      "properties": {
+        "id": "vessel_35",
+        "name": "GOLDEN CUMULUS",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Port Walcott, Australia",
+        "eta": "July 19, 12:00",
+        "speed": "11.2 kn",
+        "course": "174\u00b0",
+        "draught": "8.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42833,
+        "built": 2001,
+        "imo": 9717400,
+        "mmsi": 538007735,
+        "latitude": 13.488812557242706,
+        "longitude": 118.5261135008239
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38249317517655,
+          14.596151533292208
+        ]
+      },
+      "properties": {
+        "id": "vessel_36",
+        "name": "CL WUZHOU",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Srilanka",
+        "destination": "Balik papan, Indonesia",
+        "eta": "Jun 10, 12:00",
+        "speed": "8.5 kn",
+        "course": "172\u00b0",
+        "draught": "8.5 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42485,
+        "built": 2013,
+        "imo": 9854557,
+        "mmsi": 636018993,
+        "latitude": 14.596151533292208,
+        "longitude": 125.38249317517655
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.51605007363169,
+          20.790760306269217
+        ]
+      },
+      "properties": {
+        "id": "vessel_37",
+        "name": "MANAMI CORAL",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Qingdao, China",
+        "eta": "July 20, 12:00",
+        "speed": "10.2 kn",
+        "course": "71\u00b0",
+        "draught": "7.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43149,
+        "built": 2016,
+        "imo": 9959498,
+        "mmsi": 352002490,
+        "latitude": 20.790760306269217,
+        "longitude": 113.51605007363169
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.37210134319676,
+          29.38007587777846
+        ]
+      },
+      "properties": {
+        "id": "vessel_38",
+        "name": "MTT LANGKAWI",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Srilanka",
+        "destination": "Tawau, Malaysia",
+        "eta": "Jun 28, 12:00",
+        "speed": "11.2 kn",
+        "course": "70\u00b0",
+        "draught": "7.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42148,
+        "built": 2023,
+        "imo": 9988487,
+        "mmsi": 533132827,
+        "latitude": 29.38007587777846,
+        "longitude": 124.37210134319676
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.6066430831449,
+          38.193166884157094
+        ]
+      },
+      "properties": {
+        "id": "vessel_39",
+        "name": "YU ZHONG HAI",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Malaysia",
+        "destination": "Dongjiakou, China",
+        "eta": "July 23, 19:00",
+        "speed": "11.2 kn",
+        "course": "28\u00b0",
+        "draught": "7.1 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40871,
+        "built": 2004,
+        "imo": 9375769,
+        "mmsi": 372794000,
+        "latitude": 38.193166884157094,
+        "longitude": 133.6066430831449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.17756286604669,
+          44.08107846475443
+        ]
+      },
+      "properties": {
+        "id": "vessel_40",
+        "name": "3CUI",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Indonasia",
+        "destination": "Balik papan, Indonesia",
+        "eta": "Jun 24, 10:00",
+        "speed": "1.2 kn",
+        "course": "259\u00b0",
+        "draught": "8.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42228,
+        "built": 2004,
+        "imo": 9288439,
+        "mmsi": 574016309,
+        "latitude": 44.08107846475443,
+        "longitude": 138.17756286604669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.03067255554373,
+          55.86630897925166
+        ]
+      },
+      "properties": {
+        "id": "vessel_41",
+        "name": "CHI TRUNQ 09 31 D",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Vietnam",
+        "destination": "papan, Vietnam",
+        "eta": "Jun 27, 12:00",
+        "speed": "11.2 kn",
+        "course": "51\u00b0",
+        "draught": "10.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42066,
+        "built": 2000,
+        "imo": 9288440,
+        "mmsi": 419001390,
+        "latitude": 55.86630897925166,
+        "longitude": 145.03067255554373
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.95142079267097,
+          52.09253524718532
+        ]
+      },
+      "properties": {
+        "id": "vessel_42",
+        "name": "EVER FAVOR",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "USA",
+        "destination": "Qinhuangdao, China",
+        "eta": "July 30, 11:30",
+        "speed": "15.2 kn",
+        "course": "308\u00b0",
+        "draught": "11.8 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42971,
+        "built": 2017,
+        "imo": 9288441,
+        "mmsi": 419001391,
+        "latitude": 52.09253524718532,
+        "longitude": 165.95142079267097
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          233.2874348451858,
+          40.28276331673943
+        ]
+      },
+      "properties": {
+        "id": "vessel_43",
+        "name": "DEL MONTE VALIANT",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Hueneme, USA",
+        "eta": "Jun 25, 8:20",
+        "speed": "17.6 kn",
+        "course": "327\u00b0",
+        "draught": "8.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40621,
+        "built": 2014,
+        "imo": 9288442,
+        "mmsi": 419001392,
+        "latitude": 40.28276331673943,
+        "longitude": 233.2874348451858
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          242.07710462808754,
+          26.865261366488646
+        ]
+      },
+      "properties": {
+        "id": "vessel_44",
+        "name": "DOLE ATLANTIC",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "USA",
+        "destination": "Guayaquil, Ecuador",
+        "eta": "Jun 24, 12:34",
+        "speed": "17.7 kn",
+        "course": "146\u00b0",
+        "draught": "8.7 m",
+        "status": "Under way",
+        "last_report": "Jun 20, 06:49 UTC",
+        "gross_tonnage": 42700,
+        "built": 2021,
+        "imo": 9703069,
+        "mmsi": 311000415,
+        "latitude": 26.865261366488646,
+        "longitude": 242.07710462808754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          255.96566858382744,
+          12.505648521740305
+        ]
+      },
+      "properties": {
+        "id": "vessel_45",
+        "name": "RCC AMSTERDAM",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "USA",
+        "destination": "Ulsan, Korea",
+        "eta": "July 5, 4:00",
+        "speed": "16.2 kn",
+        "course": "300\u00b0",
+        "draught": "8.3 m",
+        "status": "Under way",
+        "last_report": "Jun 21, 06:49 UTC",
+        "gross_tonnage": 40138,
+        "built": 2004,
+        "imo": 9660798,
+        "mmsi": 311000103,
+        "latitude": 12.505648521740305,
+        "longitude": 255.96566858382744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          220.98055178392562,
+          55.16709066971802
+        ]
+      },
+      "properties": {
+        "id": "vessel_46",
+        "name": "BP ROBERTO",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Argentina",
+        "destination": "Posorja, Ecuador",
+        "eta": "Jun 30, 12:00",
+        "speed": "15.2 kn",
+        "course": "93\u00b0",
+        "draught": "4.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41879,
+        "built": 2019,
+        "imo": 9288445,
+        "mmsi": 735057563,
+        "latitude": 55.16709066971802,
+        "longitude": 220.98055178392562
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          275.9984480414978,
+          4.375528583654057
+        ]
+      },
+      "properties": {
+        "id": "vessel_47",
+        "name": "GEORGE II",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "China",
+        "destination": "LONG BEACH, CA USA",
+        "eta": "Jun 26, 7:03",
+        "speed": "20.2 kn",
+        "course": "59\u00b0",
+        "draught": "8.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40939,
+        "built": 2002,
+        "imo": 7729461,
+        "mmsi": 366791000,
+        "latitude": 4.375528583654057,
+        "longitude": 275.9984480414978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          278.6355171470181,
+          -14.459035544239054
+        ]
+      },
+      "properties": {
+        "id": "vessel_48",
+        "name": "LA PINTA",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "USA",
+        "destination": "GENOVESA, USA",
+        "eta": "Jun 30, 2:00",
+        "speed": "9.5 kn",
+        "course": "56\u00b0",
+        "draught": "3.5 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43448,
+        "built": 2000,
+        "imo": 8112897,
+        "mmsi": 735058068,
+        "latitude": -14.459035544239054,
+        "longitude": 278.6355171470181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          276.8664231992663,
+          -10.063894589388513
+        ]
+      },
+      "properties": {
+        "id": "vessel_49",
+        "name": "HARAPAN JAYA 33 2COK",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Srilanka",
+        "destination": "Gola, USA",
+        "eta": "Jun 30, 12:00",
+        "speed": "15.2 kn",
+        "course": "119\u00b0",
+        "draught": "7.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41891,
+        "built": 2014,
+        "imo": 9288448,
+        "mmsi": 525900461,
+        "latitude": -10.063894589388513,
+        "longitude": 276.8664231992663
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          281.96376412929806,
+          -37.03963797662858
+        ]
+      },
+      "properties": {
+        "id": "vessel_50",
+        "name": "GALAPAGOS ELITE",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "USA",
+        "destination": "BUCANERO, USA",
+        "eta": "Jun 24, 12:30",
+        "speed": "10.2 kn",
+        "course": "255\u00b0",
+        "draught": "9.8 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43875,
+        "built": 2006,
+        "imo": 9884722,
+        "mmsi": 735059942,
+        "latitude": -37.03963797662858,
+        "longitude": 281.96376412929806
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          283.8920791894597,
+          -35.75595540041546
+        ]
+      },
+      "properties": {
+        "id": "vessel_51",
+        "name": "MSC ARUSHI R.",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Panama",
+        "destination": "Cristobal, Panama",
+        "eta": "Jun 24, 1:00",
+        "speed": "16.2 kn",
+        "course": "17\u00b0",
+        "draught": "11.7 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 40812,
+        "built": 2010,
+        "imo": 9244881,
+        "mmsi": 636016432,
+        "latitude": -35.75595540041546,
+        "longitude": 283.8920791894597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          297.5598304805869,
+          -51.598429937870804
+        ]
+      },
+      "properties": {
+        "id": "vessel_52",
+        "name": "NAT GEO ISLANDER 2",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Malta",
+        "destination": "ESPUMILLA, Malta",
+        "eta": "Jun 25, 2:07",
+        "speed": "1.2 kn",
+        "course": "152\u00b0",
+        "draught": "8.3 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43623,
+        "built": 2008,
+        "imo": 8705266,
+        "mmsi": 735060256,
+        "latitude": -51.598429937870804,
+        "longitude": 297.5598304805869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          300.45926346716493,
+          -40.520538692477665
+        ]
+      },
+      "properties": {
+        "id": "vessel_53",
+        "name": "MSC POLONIA III",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Ecuador",
+        "destination": "Puerto Bolivar, Ecuador",
+        "eta": "Jun 25, 12:00",
+        "speed": "15.6 kn",
+        "course": "183\u00b0",
+        "draught": "8.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44725,
+        "built": 2020,
+        "imo": 9219379,
+        "mmsi": 636023491,
+        "latitude": -40.520538692477665,
+        "longitude": 300.45926346716493
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          298.5254127897834,
+          -43.04461101225345
+        ]
+      },
+      "properties": {
+        "id": "vessel_54",
+        "name": "UNDINE",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Colombia",
+        "destination": "Buenaventura Anch, Colombia",
+        "eta": "Jun 30, 5:07",
+        "speed": "19.2 kn",
+        "course": "56\u00b0",
+        "draught": "7.8 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 41671,
+        "built": 2016,
+        "imo": 9240160,
+        "mmsi": 265884000,
+        "latitude": -43.04461101225345,
+        "longitude": 298.5254127897834
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          308.58962509887596,
+          -34.31456605123383
+        ]
+      },
+      "properties": {
+        "id": "vessel_55",
+        "name": "UGAVI 2",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Norway",
+        "destination": "Alta, Norway",
+        "eta": "Jun 10, 12:00",
+        "speed": "11.2 kn",
+        "course": "273\u00b0",
+        "draught": "4.3 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42641,
+        "built": 2011,
+        "imo": 8206301,
+        "mmsi": 735057638,
+        "latitude": -34.31456605123383,
+        "longitude": 308.58962509887596
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          314.56496135455507,
+          -25.72785374151944
+        ]
+      },
+      "properties": {
+        "id": "vessel_56",
+        "name": "PING TAI RONG 301",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "China",
+        "destination": "Qingdao, China",
+        "eta": "Jun 30, 1:05",
+        "speed": "15.2 kn",
+        "course": "235\u00b0",
+        "draught": "4.9 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42621,
+        "built": 2016,
+        "imo": 9288455,
+        "mmsi": 412421097,
+        "latitude": -25.72785374151944,
+        "longitude": 314.56496135455507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          321.55319448418373,
+          -20.80341708732468
+        ]
+      },
+      "properties": {
+        "id": "vessel_57",
+        "name": "MSC VALENTINA",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Perus",
+        "destination": "Callao, Perus",
+        "eta": "Jun 25, 12:00",
+        "speed": "12.2 kn",
+        "course": "346\u00b0",
+        "draught": "4.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42033,
+        "built": 2009,
+        "imo": 9946855,
+        "mmsi": 636023083,
+        "latitude": -20.80341708732468,
+        "longitude": 321.55319448418373
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          323.0914847957372,
+          -14.355219150451328
+        ]
+      },
+      "properties": {
+        "id": "vessel_58",
+        "name": "CHARLOTTE MAERSK",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Chile",
+        "destination": "Mejillones, Chile",
+        "eta": "Jun 27, 12:00",
+        "speed": "1.2 kn",
+        "course": "146\u00b0",
+        "draught": "4.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43494,
+        "built": 2020,
+        "imo": 9245744,
+        "mmsi": 220059000,
+        "latitude": -14.355219150451328,
+        "longitude": 323.0914847957372
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          325.81645620477474,
+          -10.664324877502782
+        ]
+      },
+      "properties": {
+        "id": "vessel_59",
+        "name": "NAVIOS LA PAIX",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Chile",
+        "destination": "Patillos Anch, Chile",
+        "eta": "Jun 10, 12:00",
+        "speed": "12.2 kn",
+        "course": "139\u00b0",
+        "draught": "7. m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43916,
+        "built": 2009,
+        "imo": 9678329,
+        "mmsi": 249271000,
+        "latitude": -10.664324877502782,
+        "longitude": 325.81645620477474
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          304.766114305477,
+          7.139407360949304
+        ]
+      },
+      "properties": {
+        "id": "vessel_60",
+        "name": "EVA PARIS",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Chile",
+        "destination": "Patillos, Chile",
+        "eta": "Jun 28, 2:30",
+        "speed": "11.2 kn",
+        "course": "312\u00b0",
+        "draught": "6.9 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43511,
+        "built": 2012,
+        "imo": 9863871,
+        "mmsi": 352986143,
+        "latitude": 7.139407360949304,
+        "longitude": 304.766114305477
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          295.0526119646186,
+          12.976926824946373
+        ]
+      },
+      "properties": {
+        "id": "vessel_61",
+        "name": "FRANCO",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Argentina",
+        "destination": "Rotterdam, Argentina",
+        "eta": "Jun 26, 18:00",
+        "speed": "15.2 kn",
+        "course": "30\u00b0",
+        "draught": "5.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43945,
+        "built": 2005,
+        "imo": 9001502,
+        "mmsi": 701000578,
+        "latitude": 12.976926824946373,
+        "longitude": 295.0526119646186
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          280.15531452636145,
+          11.172753393563058
+        ]
+      },
+      "properties": {
+        "id": "vessel_62",
+        "name": "AS SILJE",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Argentina",
+        "destination": "Montevideo, Uruguay",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "287\u00b0",
+        "draught": "9.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44251,
+        "built": 2016,
+        "imo": 9813826,
+        "mmsi": 636093210,
+        "latitude": 11.172753393563058,
+        "longitude": 280.15531452636145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          280.33111913339616,
+          5.908601745870139
+        ]
+      },
+      "properties": {
+        "id": "vessel_63",
+        "name": "BOCHEM HOUSTON",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Argentina",
+        "destination": "Bahia Blanca, Argentina",
+        "eta": "Jun 29, 12:08",
+        "speed": "15.2 kn",
+        "course": "180\u00b0",
+        "draught": "7.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40474,
+        "built": 2024,
+        "imo": 9955428,
+        "mmsi": 255915589,
+        "latitude": 5.908601745870139,
+        "longitude": 280.33111913339616
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          278.9686334288773,
+          18.181312502737427
+        ]
+      },
+      "properties": {
+        "id": "vessel_64",
+        "name": "PUNTA PIRAMIDES",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Argentina",
+        "destination": "GALVAN, Argentina",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "48\u00b0",
+        "draught": "8.3 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40266,
+        "built": 2002,
+        "imo": 9421300,
+        "mmsi": 701137000,
+        "latitude": 18.181312502737427,
+        "longitude": 278.9686334288773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          263.4536082521677,
+          22.28501717702623
+        ]
+      },
+      "properties": {
+        "id": "vessel_65",
+        "name": "AITOLOS",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "USA",
+        "destination": "Gola, USA",
+        "eta": "Jun 27, 1:20",
+        "speed": "15.2 kn",
+        "course": "227\u00b0",
+        "draught": "6.8 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41541,
+        "built": 2003,
+        "imo": 9867619,
+        "mmsi": 538008713,
+        "latitude": 22.28501717702623,
+        "longitude": 263.4536082521677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          276.50686967377544,
+          27.602810145464787
+        ]
+      },
+      "properties": {
+        "id": "vessel_66",
+        "name": "HELLAS AVATAR",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Brazil",
+        "destination": "Rio De Janeiro, Brazil",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "97\u00b0",
+        "draught": "9.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43249,
+        "built": 2021,
+        "imo": 9722613,
+        "mmsi": 256757000,
+        "latitude": 27.602810145464787,
+        "longitude": 276.50686967377544
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          280.50642448381444,
+          25.378228625193685
+        ]
+      },
+      "properties": {
+        "id": "vessel_67",
+        "name": "CAPE HENLOPEN",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "USA",
+        "destination": "New London, USA",
+        "eta": "Jun 29, 3:00",
+        "speed": "1.2 kn",
+        "course": "0\u00b0",
+        "draught": "8.5 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 43235,
+        "built": 2023,
+        "imo": 5381978,
+        "mmsi": 367354360,
+        "latitude": 25.378228625193685,
+        "longitude": 280.50642448381444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          277.51774616422483,
+          25.67580718061807
+        ]
+      },
+      "properties": {
+        "id": "vessel_68",
+        "name": "68",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "297\u00b0",
+        "draught": "4.1 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43262,
+        "built": 2014,
+        "imo": 9288467,
+        "mmsi": 419001417,
+        "latitude": 25.67580718061807,
+        "longitude": 277.51774616422483
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          265.3652527029524,
+          28.416609103208454
+        ]
+      },
+      "properties": {
+        "id": "vessel_69",
+        "name": "69",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "58\u00b0",
+        "draught": "5.9 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42733,
+        "built": 2015,
+        "imo": 9288468,
+        "mmsi": 419001418,
+        "latitude": 28.416609103208454,
+        "longitude": 265.3652527029524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          269.9361724858542,
+          28.629088726956134
+        ]
+      },
+      "properties": {
+        "id": "vessel_70",
+        "name": "JJ CALLIS",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Plum Island, USA",
+        "eta": "Jun 27, 12:00",
+        "speed": "12.2 kn",
+        "course": "134\u00b0",
+        "draught": "5.8 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 42133,
+        "built": 2009,
+        "imo": 9288469,
+        "mmsi": 367107990,
+        "latitude": 28.629088726956134,
+        "longitude": 269.9361724858542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          279.5388363892646,
+          21.079768437104327
+        ]
+      },
+      "properties": {
+        "id": "vessel_71",
+        "name": "LONG ISLAND",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "USA",
+        "destination": "Port Jefferson, USA",
+        "eta": "Jun 23, 12:00",
+        "speed": "7.2 kn",
+        "course": "182\u00b0",
+        "draught": "6.3 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 42756,
+        "built": 2010,
+        "imo": 9288470,
+        "mmsi": 368376960,
+        "latitude": 21.079768437104327,
+        "longitude": 279.5388363892646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          282.72483650996253,
+          33.55792999637499
+        ]
+      },
+      "properties": {
+        "id": "vessel_72",
+        "name": "SEASTREAK HIGHLANDS",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "USA",
+        "destination": "Sandy Hook Bay, USA",
+        "eta": "Jun 24, 12:00",
+        "speed": "8.2 kn",
+        "course": "250\u00b0",
+        "draught": "7.4 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 43029,
+        "built": 2017,
+        "imo": 9288471,
+        "mmsi": 419001421,
+        "latitude": 33.55792999637499,
+        "longitude": 282.72483650996253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          281.7821786561793,
+          32.38980955642489
+        ]
+      },
+      "properties": {
+        "id": "vessel_73",
+        "name": "BLACKHAWK",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "USA",
+        "destination": "Sandy Hook Bay, USA",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "215\u00b0",
+        "draught": "8.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41906,
+        "built": 2019,
+        "imo": 9288472,
+        "mmsi": 367446980,
+        "latitude": 32.38980955642489,
+        "longitude": 281.7821786561793
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          285.73502618436714,
+          37.993912963108194
+        ]
+      },
+      "properties": {
+        "id": "vessel_74",
+        "name": "EAGLE",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Hyannis, USA",
+        "eta": "Jun 26, 12:15",
+        "speed": "11.2 kn",
+        "course": "333\u00b0",
+        "draught": "3.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43458,
+        "built": 2006,
+        "imo": 8705864,
+        "mmsi": 367174060,
+        "latitude": 37.993912963108194,
+        "longitude": 285.73502618436714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          285.55922157733244,
+          37.20856258980014
+        ]
+      },
+      "properties": {
+        "id": "vessel_75",
+        "name": "BLACKHAWK",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "USA",
+        "destination": "Hyannis, USA",
+        "eta": "Jun 26, 1:30",
+        "speed": "9.2 kn",
+        "course": "115\u00b0",
+        "draught": "8.0 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 44137,
+        "built": 2012,
+        "imo": 9288474,
+        "mmsi": 367446980,
+        "latitude": 37.20856258980014,
+        "longitude": 285.55922157733244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          287.03158516124796,
+          40.142747956370215
+        ]
+      },
+      "properties": {
+        "id": "vessel_76",
+        "name": "JENNIFER C",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "USA",
+        "destination": "Orient Point, USA",
+        "eta": "Jun 10, 12:00",
+        "speed": "8.2 kn",
+        "course": "222\u00b0",
+        "draught": "6.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40224,
+        "built": 2004,
+        "imo": 8643212,
+        "mmsi": 367742540,
+        "latitude": 40.142747956370215,
+        "longitude": 287.03158516124796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          286.76787825069584,
+          39.61852320488074
+        ]
+      },
+      "properties": {
+        "id": "vessel_77",
+        "name": "LILA TOCHIGI",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "USA",
+        "destination": "New York, USA",
+        "eta": "Jun 26, 12:00",
+        "speed": "13.2 kn",
+        "course": "314\u00b0",
+        "draught": "4.0 m",
+        "status": "Under way",
+        "last_report": "Jun 23, 06:49 UTC",
+        "gross_tonnage": 42327,
+        "built": 2018,
+        "imo": 9683116,
+        "mmsi": 636022551,
+        "latitude": 39.61852320488074,
+        "longitude": 286.76787825069584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          288.9857340874557,
+          40.544966895127665
+        ]
+      },
+      "properties": {
+        "id": "vessel_78",
+        "name": "COETIVY",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "USA",
+        "destination": "New York, USA",
+        "eta": "Jun 10, 12:00",
+        "speed": "11.2 kn",
+        "course": "267\u00b0",
+        "draught": "8.1 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 42674,
+        "built": 2015,
+        "imo": 9459230,
+        "mmsi": 538010268,
+        "latitude": 40.544966895127665,
+        "longitude": 288.9857340874557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.7658670311721,
+          42.34922779915234
+        ]
+      },
+      "properties": {
+        "id": "vessel_79",
+        "name": "SEA CAELUM",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Bahamas",
+        "destination": "Nassau, Bahamas",
+        "eta": "Jun 27, 12:00",
+        "speed": "13.2 kn",
+        "course": "179\u00b0",
+        "draught": "6.5 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 42032,
+        "built": 2009,
+        "imo": 9724582,
+        "mmsi": 538010127,
+        "latitude": 42.34922779915234,
+        "longitude": 289.7658670311721
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.98561987033605,
+          43.45218000678694
+        ]
+      },
+      "properties": {
+        "id": "vessel_80",
+        "name": "CAP QUEBEC",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Canada",
+        "destination": "Quebec, Canada",
+        "eta": "Jun 30, 2:15",
+        "speed": "11.2 kn",
+        "course": "48\u00b0",
+        "draught": "5.5 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42871,
+        "built": 2013,
+        "imo": 9817107,
+        "mmsi": 241593000,
+        "latitude": 43.45218000678694,
+        "longitude": 289.98561987033605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          272.8809084125731,
+          42.56709096647242
+        ]
+      },
+      "properties": {
+        "id": "vessel_81",
+        "name": "CHEMTRANS TAURUS",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "USA",
+        "destination": "Freeport, Bahamas",
+        "eta": "Jun 10, 12:00",
+        "speed": "10.2 kn",
+        "course": "143\u00b0",
+        "draught": "3.9 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42977,
+        "built": 2016,
+        "imo": 9295036,
+        "mmsi": 538010417,
+        "latitude": 42.56709096647242,
+        "longitude": 272.8809084125731
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          249.9666132594279,
+          18.472114609707226
+        ]
+      },
+      "properties": {
+        "id": "vessel_82",
+        "name": "FAUSKANGER",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "USA",
+        "destination": "Melbourne, Australia",
+        "eta": "Jun 24, 2:00",
+        "speed": "12.2 kn",
+        "course": "233\u00b0",
+        "draught": "7.1 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 40245,
+        "built": 2002,
+        "imo": 9288481,
+        "mmsi": 419001431,
+        "latitude": 18.472114609707226,
+        "longitude": 249.9666132594279
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.4023892718181,
+          -37.82716004770905
+        ]
+      },
+      "properties": {
+        "id": "vessel_83",
+        "name": "Ocean odyssey",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Newzeland",
+        "eta": "Jun 10, 12:00",
+        "speed": "7.5 kn",
+        "course": "56\u00b0",
+        "draught": "6.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42191,
+        "built": 2004,
+        "imo": 9288482,
+        "mmsi": 512000507,
+        "latitude": -37.82716004770905,
+        "longitude": 172.4023892718181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.0962099482531,
+          -41.80851357585742
+        ]
+      },
+      "properties": {
+        "id": "vessel_84",
+        "name": "Fpso Raroa",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "0.2 kn",
+        "course": "165\u00b0",
+        "draught": "12.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40275,
+        "built": 2000,
+        "imo": 9713971,
+        "mmsi": 636012580,
+        "latitude": -41.80851357585742,
+        "longitude": 168.0962099482531
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.4482643522834,
+          -46.234468680878095
+        ]
+      },
+      "properties": {
+        "id": "vessel_85",
+        "name": "Antanl otago",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Auckland, Newzeland",
+        "eta": "Jun 10, 12:00",
+        "speed": "12.2 kn",
+        "course": "173\u00b0",
+        "draught": "11.9 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42359,
+        "built": 2021,
+        "imo": 9431812,
+        "mmsi": 636091765,
+        "latitude": -46.234468680878095,
+        "longitude": 164.4482643522834
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.28200066581527,
+          -41.9095204654582
+        ]
+      },
+      "properties": {
+        "id": "vessel_86",
+        "name": "Bright Moments",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Auckland, Newzeland",
+        "eta": "Jun 10, 12:00",
+        "speed": "6.2 kn",
+        "course": "23\u00b0",
+        "draught": "4.1 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42315,
+        "built": 2007,
+        "imo": 9288485,
+        "mmsi": 316012746,
+        "latitude": -41.9095204654582,
+        "longitude": 177.28200066581527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.64317134488184,
+          -34.538752241756264
+        ]
+      },
+      "properties": {
+        "id": "vessel_87",
+        "name": "Aurora",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Wallaroo, Australia",
+        "eta": "Jun 10, 12:00",
+        "speed": "1.2 kn",
+        "course": "181\u00b0",
+        "draught": "2.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41321,
+        "built": 2009,
+        "imo": 9589774,
+        "mmsi": 572341220,
+        "latitude": -34.538752241756264,
+        "longitude": 153.64317134488184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8302976323269,
+          -39.92736279500947
+        ]
+      },
+      "properties": {
+        "id": "vessel_88",
+        "name": "Qc Isaballa",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Port kembla, Australia",
+        "eta": "Jun 10, 12:00",
+        "speed": "9.3 kn",
+        "course": "260\u00b0",
+        "draught": "6.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41621,
+        "built": 2019,
+        "imo": 9991252,
+        "mmsi": 352003759,
+        "latitude": -39.92736279500947,
+        "longitude": 150.8302976323269
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.13751050467664,
+          -33.005550627137445
+        ]
+      },
+      "properties": {
+        "id": "vessel_89",
+        "name": "Marine Rescue Pjp1",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Diummoyne Sudney, Australia",
+        "eta": "Jun 10, 12:00",
+        "speed": "5.2 kn",
+        "course": "57\u00b0",
+        "draught": "7.3 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44257,
+        "built": 2002,
+        "imo": 9288488,
+        "mmsi": 503111090,
+        "latitude": -33.005550627137445,
+        "longitude": 155.13751050467664
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.82456791326896,
+          -28.234335131716875
+        ]
+      },
+      "properties": {
+        "id": "vessel_90",
+        "name": "Waterlo Sunset",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Sudney, Australia",
+        "eta": "Jun 10, 12:00",
+        "speed": "7.6 kn",
+        "course": "49\u00b0",
+        "draught": "4.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44365,
+        "built": 2018,
+        "imo": 9288489,
+        "mmsi": 503028710,
+        "latitude": -28.234335131716875,
+        "longitude": 154.82456791326896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.00037252030364,
+          -26.240698160986927
+        ]
+      },
+      "properties": {
+        "id": "vessel_91",
+        "name": "Brege cho oyu",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Port Hedland, Australia",
+        "eta": "Jun 10, 12:00",
+        "speed": "0.2 kn",
+        "course": "83\u00b0",
+        "draught": "10.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41275,
+        "built": 2019,
+        "imo": 9709520,
+        "mmsi": 232005278,
+        "latitude": -26.240698160986927,
+        "longitude": 155.00037252030364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.43320343687077,
+          -12.14988989111173
+        ]
+      },
+      "properties": {
+        "id": "vessel_92",
+        "name": "Great Prosparity",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Sudney, Australia",
+        "eta": "Jun 10, 12:00",
+        "speed": "0.2 kn",
+        "course": "1\u00b0",
+        "draught": "6.9 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43479,
+        "built": 2022,
+        "imo": 9990832,
+        "mmsi": 477920800,
+        "latitude": -12.14988989111173,
+        "longitude": 128.43320343687077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.77365679327625,
+          -39.578339892067106
+        ]
+      },
+      "properties": {
+        "id": "vessel_93",
+        "name": "MSC VALERIA",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Panama",
+        "destination": "Felixstowe, United Kingdom",
+        "eta": "July 15, 7:00",
+        "speed": "15.2 kn",
+        "course": "206\u00b0",
+        "draught": "6.3 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 41890,
+        "built": 2022,
+        "imo": 9461439,
+        "mmsi": 370341000,
+        "latitude": -39.578339892067106,
+        "longitude": 141.77365679327625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.07153030650895,
+          -1.4098899204669977
+        ]
+      },
+      "properties": {
+        "id": "vessel_94",
+        "name": "ECO ENCHANTED",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Panama",
+        "destination": "Felixstowe, United Kingdom",
+        "eta": "July 15, 12:00",
+        "speed": "15.2 kn",
+        "course": "239\u00b0",
+        "draught": "7.8 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 40874,
+        "built": 2019,
+        "imo": 9945796,
+        "mmsi": 538009928,
+        "latitude": -1.4098899204669977,
+        "longitude": 141.07153030650895
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.97321562658111,
+          -6.714594235098752
+        ]
+      },
+      "properties": {
+        "id": "vessel_95",
+        "name": "MSC MELATILDE",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Belgium",
+        "destination": "Zeebrugge, Belgium",
+        "eta": "Jun 29, 6:00",
+        "speed": "10.2 kn",
+        "course": "130\u00b0",
+        "draught": "9.5 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 42017,
+        "built": 2001,
+        "imo": 9404675,
+        "mmsi": 357240000,
+        "latitude": -6.714594235098752,
+        "longitude": 86.97321562658111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.97024949722708,
+          -19.19677947660659
+        ]
+      },
+      "properties": {
+        "id": "vessel_96",
+        "name": "MAGDA",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Congo",
+        "destination": "Pointe Noire, Congo",
+        "eta": "Jun 27, 1:00",
+        "speed": "8.2 kn",
+        "course": "25\u00b0",
+        "draught": "7.6 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 44881,
+        "built": 2018,
+        "imo": 9480693,
+        "mmsi": 538009066,
+        "latitude": -19.19677947660659,
+        "longitude": 57.97024949722708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.16508377414175,
+          -21.478819391427596
+        ]
+      },
+      "properties": {
+        "id": "vessel_97",
+        "name": "ZHEN YUAN YU 828",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Congo",
+        "destination": "Pointe Noire, Congo",
+        "eta": "Jun 26, 7:30",
+        "speed": "15.2 kn",
+        "course": "245\u00b0",
+        "draught": "4.3 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 41009,
+        "built": 2003,
+        "imo": 9288496,
+        "mmsi": 412420878,
+        "latitude": -21.478819391427596,
+        "longitude": 58.16508377414175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.671412399288386,
+          -17.835791346646538
+        ]
+      },
+      "properties": {
+        "id": "vessel_98",
+        "name": "BLC THIRD",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Colombia",
+        "destination": "Yantai, China",
+        "eta": "Aug 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "358\u00b0",
+        "draught": "6.5 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 42302,
+        "built": 2006,
+        "imo": 9855202,
+        "mmsi": 563084200,
+        "latitude": -17.835791346646538,
+        "longitude": 50.671412399288386
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.28755688846467,
+          -15.160531328236996
+        ]
+      },
+      "properties": {
+        "id": "vessel_99",
+        "name": "LUCKY",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Guinea",
+        "destination": "Conakry, Guinea",
+        "eta": "Jun 29, 4:00",
+        "speed": "15.2 kn",
+        "course": "229\u00b0",
+        "draught": "9.8 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44500,
+        "built": 2022,
+        "imo": 9037305,
+        "mmsi": 636022993,
+        "latitude": -15.160531328236996,
+        "longitude": 45.28755688846467
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.55130618715472,
+          -20.454927069932857
+        ]
+      },
+      "properties": {
+        "id": "vessel_100",
+        "name": "GENOVA EXPRESS",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Morocco",
+        "destination": "Tanger Med, Morocco",
+        "eta": "Jun 30, 8:00",
+        "speed": "15.2 kn",
+        "course": "344\u00b0",
+        "draught": "10.3 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 43803,
+        "built": 2015,
+        "imo": 9943906,
+        "mmsi": 211130180,
+        "latitude": -20.454927069932857,
+        "longitude": 49.55130618715472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.00461744730654,
+          -23.169533380009018
+        ]
+      },
+      "properties": {
+        "id": "vessel_101",
+        "name": "EOLOS II",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Greece",
+        "destination": "Aidipsos, Greece",
+        "eta": "Jun 10, 12:00",
+        "speed": "7.2 kn",
+        "course": "194\u00b0",
+        "draught": "6.5 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40255,
+        "built": 2024,
+        "imo": 9605956,
+        "mmsi": 239620800,
+        "latitude": -23.169533380009018,
+        "longitude": 49.00461744730654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.71981295912879,
+          -20.26951929752661
+        ]
+      },
+      "properties": {
+        "id": "vessel_102",
+        "name": "ATHANASIOS KAMPANIS",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Greece",
+        "destination": "Alexandroupoli, Greece",
+        "eta": "Jun 27, 19:00",
+        "speed": "15.2 kn",
+        "course": "122\u00b0",
+        "draught": "7.0 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 41889,
+        "built": 2011,
+        "imo": 8773445,
+        "mmsi": 240312000,
+        "latitude": -20.26951929752661,
+        "longitude": 42.71981295912879
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.88341475381944,
+          -20.287294097322274
+        ]
+      },
+      "properties": {
+        "id": "vessel_103",
+        "name": "HASAN G",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Lebanon",
+        "destination": "Tripoli, Lebanon",
+        "eta": "Jun 29, 12:00",
+        "speed": "15.2 kn",
+        "course": "318\u00b0",
+        "draught": "4.2 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 41452,
+        "built": 2010,
+        "imo": 9136852,
+        "mmsi": 620360000,
+        "latitude": -20.287294097322274,
+        "longitude": 35.88341475381944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.935929881569685,
+          -31.074931782555538
+        ]
+      },
+      "properties": {
+        "id": "vessel_104",
+        "name": "ULTRA QUALITY",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Spain",
+        "destination": "Algeciras, Spain",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "213\u00b0",
+        "draught": "12.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41550,
+        "built": 2004,
+        "imo": 9866524,
+        "mmsi": 636019753,
+        "latitude": -31.074931782555538,
+        "longitude": 33.935929881569685
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.102193568037833,
+          -36.33860957777607
+        ]
+      },
+      "properties": {
+        "id": "vessel_105",
+        "name": "NAIL KARDESLER",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Turkey",
+        "destination": "Canakkale Anch, Turkey",
+        "eta": "Jun 24, 18:00",
+        "speed": "15.2 kn",
+        "course": "358\u00b0",
+        "draught": "6.1 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 42497,
+        "built": 2003,
+        "imo": 271062024,
+        "mmsi": 419001454,
+        "latitude": -36.33860957777607,
+        "longitude": 21.102193568037833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.212739232375972,
+          -35.912428116252784
+        ]
+      },
+      "properties": {
+        "id": "vessel_106",
+        "name": "LAYNAH",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Saudi Arabia",
+        "destination": "Durban, South Africa",
+        "eta": "Jun 30, 14:00",
+        "speed": "3.2 kn",
+        "course": "193\u00b0",
+        "draught": "21.9 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 41227,
+        "built": 2015,
+        "imo": 9926697,
+        "mmsi": 403586000,
+        "latitude": -35.912428116252784,
+        "longitude": 15.212739232375972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.336563370931277,
+          -23.269057099430363
+        ]
+      },
+      "properties": {
+        "id": "vessel_107",
+        "name": "GENESIS",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Saudi Arabia",
+        "destination": "Durban, South Africa",
+        "eta": "Jun 30, 12:00",
+        "speed": "15.2 kn",
+        "course": "271\u00b0",
+        "draught": "22.7 m",
+        "status": "Under way",
+        "last_report": "Jun 28, 06:49 UTC",
+        "gross_tonnage": 40424,
+        "built": 2020,
+        "imo": 7217092,
+        "mmsi": 677089300,
+        "latitude": -23.269057099430363,
+        "longitude": 9.336563370931277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.215586406104649,
+          -30.326799481209918
+        ]
+      },
+      "properties": {
+        "id": "vessel_108",
+        "name": "CMA CGM SAIGON",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Khalifa, United Arab Emirates",
+        "eta": "Jun 27, 12:00",
+        "speed": "12.2 kn",
+        "course": "38\u00b0",
+        "draught": "9.5 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 40809,
+        "built": 2011,
+        "imo": 9357547,
+        "mmsi": 229480000,
+        "latitude": -30.326799481209918,
+        "longitude": 10.215586406104649
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.776965268439903,
+          -1.2519543065770649
+        ]
+      },
+      "properties": {
+        "id": "vessel_109",
+        "name": "ALKHAYYAM",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 30, 12:00",
+        "speed": "9.8 kn",
+        "course": "23\u00b0",
+        "draught": "4.8 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 41525,
+        "built": 2010,
+        "imo": 9288508,
+        "mmsi": 422100202,
+        "latitude": -1.2519543065770649,
+        "longitude": 1.776965268439903
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.750302785248083,
+          0.4910090881863898
+        ]
+      },
+      "properties": {
+        "id": "vessel_110",
+        "name": "HANSA AFRICA",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Port Qasim, Pakistan",
+        "eta": "July 8, 2:00",
+        "speed": "14.2 kn",
+        "course": "234\u00b0",
+        "draught": "10.5 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 40173,
+        "built": 2017,
+        "imo": 9419797,
+        "mmsi": 636093354,
+        "latitude": 0.4910090881863898,
+        "longitude": -14.750302785248083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.68004910593619,
+          25.386435882836867
+        ]
+      },
+      "properties": {
+        "id": "vessel_111",
+        "name": "MDL TOOFAN",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Saudi Arabia",
+        "destination": "Fujairah, United Arab Emirates",
+        "eta": "Jun 29, 10:00",
+        "speed": "9.2 kn",
+        "course": "13\u00b0",
+        "draught": "4.2 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 41019,
+        "built": 2003,
+        "imo": 9275141,
+        "mmsi": 352001903,
+        "latitude": 25.386435882836867,
+        "longitude": -19.68004910593619
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.910681355178976,
+          35.52203114941576
+        ]
+      },
+      "properties": {
+        "id": "vessel_112",
+        "name": "FW MERCURY",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Bali",
+        "destination": "Tuticorin, India",
+        "eta": "Jun 29, 12:00",
+        "speed": "8.2 kn",
+        "course": "230\u00b0",
+        "draught": "8.4 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 43510,
+        "built": 2004,
+        "imo": 9960459,
+        "mmsi": 538010703,
+        "latitude": 35.52203114941576,
+        "longitude": -20.910681355178976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.29307061595068,
+          27.437518457775028
+        ]
+      },
+      "properties": {
+        "id": "vessel_113",
+        "name": "FRONT SILKEBORG",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Hong Kong",
+        "destination": "Philadelphia, USA",
+        "eta": "Jun 28, 10:15",
+        "speed": "12.2 kn",
+        "course": "387\u00b0",
+        "draught": "5.6 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 42901,
+        "built": 2021,
+        "imo": 9832274,
+        "mmsi": 477538800,
+        "latitude": 27.437518457775028,
+        "longitude": -36.29307061595068
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.21246977027433,
+          38.19275034476261
+        ]
+      },
+      "properties": {
+        "id": "vessel_114",
+        "name": "LNG AKWA IBOM",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Bermuda",
+        "destination": "Bonny, Nigeria",
+        "eta": "Jun 27, 4:00",
+        "speed": "10.2 kn",
+        "course": "285\u00b0",
+        "draught": "9.4 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 41669,
+        "built": 2011,
+        "imo": 9262209,
+        "mmsi": 310453000,
+        "latitude": 38.19275034476261,
+        "longitude": -41.21246977027433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.73810283153449,
+          34.36611197490168
+        ]
+      },
+      "properties": {
+        "id": "vessel_115",
+        "name": "MSC YASHI B",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Portugal",
+        "destination": "Marsaxlokk, Malta",
+        "eta": "Jun 10, 12:00",
+        "speed": "18.2 kn",
+        "course": "78\u00b0",
+        "draught": "9.1 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 42127,
+        "built": 2004,
+        "imo": 9778090,
+        "mmsi": 255806032,
+        "latitude": 34.36611197490168,
+        "longitude": -57.73810283153449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.415597582878306,
+          39.489354766746246
+        ]
+      },
+      "properties": {
+        "id": "vessel_116",
+        "name": "ARVIA",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Bermuda",
+        "destination": "Southampton, United Kingdom",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "300\u00b0",
+        "draught": "7.9 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44869,
+        "built": 2020,
+        "imo": 9849693,
+        "mmsi": 310856000,
+        "latitude": 39.489354766746246,
+        "longitude": -11.415597582878306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.971184542764299,
+          44.99061829460468
+        ]
+      },
+      "properties": {
+        "id": "vessel_117",
+        "name": "MASCATO TRES",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Spain, Europe",
+        "eta": "Jun 27, 8:00",
+        "speed": "1.2 kn",
+        "course": "32\u00b0",
+        "draught": "8.0 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 42942,
+        "built": 2014,
+        "imo": 9288516,
+        "mmsi": 224176920,
+        "latitude": 44.99061829460468,
+        "longitude": -5.971184542764299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.894141211920357,
+          48.71555851892543
+        ]
+      },
+      "properties": {
+        "id": "vessel_118",
+        "name": "FINO",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Liberia",
+        "destination": "Klaipeda, Lithuania",
+        "eta": "Jun 30, 12:00",
+        "speed": "9.2 kn",
+        "course": "29\u00b0",
+        "draught": "6.7 m",
+        "status": "Under way",
+        "last_report": "Jun 22, 06:49 UTC",
+        "gross_tonnage": 42637,
+        "built": 2001,
+        "imo": 9131943,
+        "mmsi": 636021411,
+        "latitude": 48.71555851892543,
+        "longitude": -6.894141211920357
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9198268265085853,
+          50.06240555765679
+        ]
+      },
+      "properties": {
+        "id": "vessel_119",
+        "name": "118",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "44\u00b0",
+        "draught": "4.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43221,
+        "built": 2004,
+        "imo": 9288518,
+        "mmsi": 419001468,
+        "latitude": 50.06240555765679,
+        "longitude": -0.9198268265085853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8821703955969352,
+          50.59522117213991
+        ]
+      },
+      "properties": {
+        "id": "vessel_120",
+        "name": "119",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "82\u00b0",
+        "draught": "8.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43449,
+        "built": 2009,
+        "imo": 9288519,
+        "mmsi": 419001469,
+        "latitude": 50.59522117213991,
+        "longitude": 0.8821703955969352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7831690066496853,
+          51.643941153291216
+        ]
+      },
+      "properties": {
+        "id": "vessel_121",
+        "name": "120",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "77\u00b0",
+        "draught": "8.5 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44427,
+        "built": 2001,
+        "imo": 9288520,
+        "mmsi": 419001470,
+        "latitude": 51.643941153291216,
+        "longitude": 1.7831690066496853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4543061506041612,
+          53.71801250459932
+        ]
+      },
+      "properties": {
+        "id": "vessel_122",
+        "name": "121",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "74\u00b0",
+        "draught": "4.3 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43427,
+        "built": 2003,
+        "imo": 9288521,
+        "mmsi": 419001471,
+        "latitude": 53.71801250459932,
+        "longitude": 1.4543061506041612
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.816346665161985,
+          56.240270938690244
+        ]
+      },
+      "properties": {
+        "id": "vessel_123",
+        "name": "122",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "60\u00b0",
+        "draught": "7.5 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43906,
+        "built": 2005,
+        "imo": 9288522,
+        "mmsi": 419001472,
+        "latitude": 56.240270938690244,
+        "longitude": 6.816346665161985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.607467396818085,
+          57.41894642511041
+        ]
+      },
+      "properties": {
+        "id": "vessel_124",
+        "name": "123",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "241\u00b0",
+        "draught": "8.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44379,
+        "built": 2003,
+        "imo": 9288523,
+        "mmsi": 419001473,
+        "latitude": 57.41894642511041,
+        "longitude": 7.607467396818085
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.635569333243577,
+          55.327273738353604
+        ]
+      },
+      "properties": {
+        "id": "vessel_125",
+        "name": "124",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "131\u00b0",
+        "draught": "7.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40973,
+        "built": 2006,
+        "imo": 9288524,
+        "mmsi": 419001474,
+        "latitude": 55.327273738353604,
+        "longitude": 16.635569333243577
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.129592469919146,
+          57.32524017710194
+        ]
+      },
+      "properties": {
+        "id": "vessel_126",
+        "name": "125",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "42\u00b0",
+        "draught": "9.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44237,
+        "built": 2003,
+        "imo": 9288525,
+        "mmsi": 419001475,
+        "latitude": 57.32524017710194,
+        "longitude": 20.129592469919146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.47032519353911,
+          55.7743712307184
+        ]
+      },
+      "properties": {
+        "id": "vessel_127",
+        "name": "126",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "315\u00b0",
+        "draught": "6.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42178,
+        "built": 2013,
+        "imo": 9288526,
+        "mmsi": 419001476,
+        "latitude": 55.7743712307184,
+        "longitude": 19.47032519353911
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.557481585273955,
+          57.502602949005656
+        ]
+      },
+      "properties": {
+        "id": "vessel_128",
+        "name": "127",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "323\u00b0",
+        "draught": "6.3 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44349,
+        "built": 2004,
+        "imo": 9288527,
+        "mmsi": 419001477,
+        "latitude": 57.502602949005656,
+        "longitude": 23.557481585273955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.14044922611424,
+          61.39500614687292
+        ]
+      },
+      "properties": {
+        "id": "vessel_129",
+        "name": "128",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "230\u00b0",
+        "draught": "5.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43671,
+        "built": 2011,
+        "imo": 9288528,
+        "mmsi": 419001478,
+        "latitude": 61.39500614687292,
+        "longitude": 19.14044922611424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.49090226696681,
+          62.53199153229579
+        ]
+      },
+      "properties": {
+        "id": "vessel_130",
+        "name": "129",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "177\u00b0",
+        "draught": "5.9 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42949,
+        "built": 2008,
+        "imo": 9288529,
+        "mmsi": 419001479,
+        "latitude": 62.53199153229579,
+        "longitude": 19.49090226696681
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.962100972290152,
+          59.737720300419944
+        ]
+      },
+      "properties": {
+        "id": "vessel_131",
+        "name": "130",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "89\u00b0",
+        "draught": "7.9 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43011,
+        "built": 2003,
+        "imo": 9288530,
+        "mmsi": 419001480,
+        "latitude": 59.737720300419944,
+        "longitude": 24.962100972290152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.753897384086647,
+          34.299561794802266
+        ]
+      },
+      "properties": {
+        "id": "vessel_132",
+        "name": "131",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "53\u00b0",
+        "draught": "4.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40756,
+        "built": 2004,
+        "imo": 9288531,
+        "mmsi": 419001481,
+        "latitude": 34.299561794802266,
+        "longitude": -9.753897384086647
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.079838929445221,
+          37.921565690073436
+        ]
+      },
+      "properties": {
+        "id": "vessel_133",
+        "name": "132",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "254\u00b0",
+        "draught": "8.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44055,
+        "built": 2021,
+        "imo": 9288532,
+        "mmsi": 419001482,
+        "latitude": 37.921565690073436,
+        "longitude": 3.079838929445221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.618129240998661,
+          41.2062844166262
+        ]
+      },
+      "properties": {
+        "id": "vessel_134",
+        "name": "133",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "188\u00b0",
+        "draught": "5.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42470,
+        "built": 2003,
+        "imo": 9288533,
+        "mmsi": 419001483,
+        "latitude": 41.2062844166262,
+        "longitude": 4.618129240998661
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.616793671115772,
+          34.18816999545527
+        ]
+      },
+      "properties": {
+        "id": "vessel_135",
+        "name": "134",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "232\u00b0",
+        "draught": "5.1 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41655,
+        "built": 2004,
+        "imo": 9288534,
+        "mmsi": 419001484,
+        "latitude": 34.18816999545527,
+        "longitude": 16.616793671115772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.777500813858445,
+          34.721050148853806
+        ]
+      },
+      "properties": {
+        "id": "vessel_136",
+        "name": "135",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "200\u00b0",
+        "draught": "5.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40686,
+        "built": 2014,
+        "imo": 9288535,
+        "mmsi": 419001485,
+        "latitude": 34.721050148853806,
+        "longitude": 21.777500813858445
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.578322938669146,
+          32.33888256290842
+        ]
+      },
+      "properties": {
+        "id": "vessel_137",
+        "name": "136",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "183\u00b0",
+        "draught": "5.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41586,
+        "built": 2023,
+        "imo": 9288536,
+        "mmsi": 419001486,
+        "latitude": 32.33888256290842,
+        "longitude": 27.578322938669146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.75368235574286,
+          32.413151460439344
+        ]
+      },
+      "properties": {
+        "id": "vessel_138",
+        "name": "137",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "272\u00b0",
+        "draught": "9.3 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44120,
+        "built": 2019,
+        "imo": 9288537,
+        "mmsi": 419001487,
+        "latitude": 32.413151460439344,
+        "longitude": 31.75368235574286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.885758405999386,
+          32.56150595462418
+        ]
+      },
+      "properties": {
+        "id": "vessel_139",
+        "name": "138",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "177\u00b0",
+        "draught": "8.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40577,
+        "built": 2012,
+        "imo": 9288538,
+        "mmsi": 419001488,
+        "latitude": 32.56150595462418,
+        "longitude": 29.885758405999386
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.55612476780935,
+          34.48574731555183
+        ]
+      },
+      "properties": {
+        "id": "vessel_140",
+        "name": "140",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "177\u00b0",
+        "draught": "9.5 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44572,
+        "built": 2020,
+        "imo": 9288539,
+        "mmsi": 419001489,
+        "latitude": 34.48574731555183,
+        "longitude": 29.55612476780935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.13599297756003,
+          27.399273230629273
+        ]
+      },
+      "properties": {
+        "id": "vessel_141",
+        "name": "141",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "320\u00b0",
+        "draught": "4.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44193,
+        "built": 2006,
+        "imo": 9288540,
+        "mmsi": 419001490,
+        "latitude": 27.399273230629273,
+        "longitude": 34.13599297756003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81723582981943,
+          27.555310678112804
+        ]
+      },
+      "properties": {
+        "id": "vessel_142",
+        "name": "142",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "243\u00b0",
+        "draught": "7.5 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40026,
+        "built": 2005,
+        "imo": 9288541,
+        "mmsi": 419001491,
+        "latitude": 27.555310678112804,
+        "longitude": 34.81723582981943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.080942740371455,
+          26.172705080973447
+        ]
+      },
+      "properties": {
+        "id": "vessel_143",
+        "name": "143",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "168\u00b0",
+        "draught": "7.3 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42384,
+        "built": 2012,
+        "imo": 9288542,
+        "mmsi": 419001492,
+        "latitude": 26.172705080973447,
+        "longitude": 35.080942740371455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0044552473404,
+          22.833260301095525
+        ]
+      },
+      "properties": {
+        "id": "vessel_144",
+        "name": "144",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "100\u00b0",
+        "draught": "8.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44262,
+        "built": 2003,
+        "imo": 9288543,
+        "mmsi": 419001493,
+        "latitude": 22.833260301095525,
+        "longitude": 37.0044552473404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.04790643933173,
+          18.911312771336178
+        ]
+      },
+      "properties": {
+        "id": "vessel_145",
+        "name": "144",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "12\u00b0",
+        "draught": "8.9 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40531,
+        "built": 2009,
+        "imo": 9288544,
+        "mmsi": 419001494,
+        "latitude": 18.911312771336178,
+        "longitude": 39.04790643933173
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.269372397764606,
+          15.2729141203199
+        ]
+      },
+      "properties": {
+        "id": "vessel_146",
+        "name": "145",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "173\u00b0",
+        "draught": "4.8 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40813,
+        "built": 2004,
+        "imo": 9288545,
+        "mmsi": 419001495,
+        "latitude": 15.2729141203199,
+        "longitude": 41.269372397764606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.268927207803614,
+          11.380276179918447
+        ]
+      },
+      "properties": {
+        "id": "vessel_147",
+        "name": "146",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "18\u00b0",
+        "draught": "6.5 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42386,
+        "built": 2024,
+        "imo": 9288546,
+        "mmsi": 419001496,
+        "latitude": 11.380276179918447,
+        "longitude": 45.268927207803614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.54306541884414,
+          13.48412729333239
+        ]
+      },
+      "properties": {
+        "id": "vessel_148",
+        "name": "147",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "142\u00b0",
+        "draught": "6.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42986,
+        "built": 2024,
+        "imo": 9288547,
+        "mmsi": 419001497,
+        "latitude": 13.48412729333239,
+        "longitude": 50.54306541884414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.49866907712447,
+          15.2729141203199
+        ]
+      },
+      "properties": {
+        "id": "vessel_149",
+        "name": "148",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "219\u00b0",
+        "draught": "4.3 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41744,
+        "built": 2021,
+        "imo": 9288548,
+        "mmsi": 419001498,
+        "latitude": 15.2729141203199,
+        "longitude": 54.49866907712447
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.68579536456956,
+          26.85893937474874
+        ]
+      },
+      "properties": {
+        "id": "vessel_150",
+        "name": "148",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "265\u00b0",
+        "draught": "4.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41359,
+        "built": 2016,
+        "imo": 9288549,
+        "mmsi": 419001499,
+        "latitude": 26.85893937474874,
+        "longitude": 51.68579536456956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.42043897046841,
+          24.199748408755937
+        ]
+      },
+      "properties": {
+        "id": "vessel_151",
+        "name": "149",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "180\u00b0",
+        "draught": "4.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41691,
+        "built": 2023,
+        "imo": 9288550,
+        "mmsi": 419001500,
+        "latitude": 24.199748408755937,
+        "longitude": 59.42043897046841
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.07932669503486,
+          18.966928805141954
+        ]
+      },
+      "properties": {
+        "id": "vessel_152",
+        "name": "150",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "234\u00b0",
+        "draught": "4.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40173,
+        "built": 2021,
+        "imo": 9288551,
+        "mmsi": 419001501,
+        "latitude": 18.966928805141954,
+        "longitude": 60.07932669503486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.29739934102909,
+          23.155003778321497
+        ]
+      },
+      "properties": {
+        "id": "vessel_153",
+        "name": "151",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "259\u00b0",
+        "draught": "7.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42696,
+        "built": 2016,
+        "imo": 9288552,
+        "mmsi": 419001502,
+        "latitude": 23.155003778321497,
+        "longitude": 64.29739934102909
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.6050690818571,
+          18.842910976602447
+        ]
+      },
+      "properties": {
+        "id": "vessel_154",
+        "name": "152",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "237\u00b0",
+        "draught": "8.9 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41013,
+        "built": 2019,
+        "imo": 9288553,
+        "mmsi": 419001503,
+        "latitude": 18.842910976602447,
+        "longitude": 64.6050690818571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.61108330423723,
+          1.111335174033699
+        ]
+      },
+      "properties": {
+        "id": "vessel_155",
+        "name": "153",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "194\u00b0",
+        "draught": "9.8 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40005,
+        "built": 2007,
+        "imo": 9288554,
+        "mmsi": 419001504,
+        "latitude": 1.111335174033699,
+        "longitude": 48.61108330423723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.7774259277228,
+          -5.0258088597470145
+        ]
+      },
+      "properties": {
+        "id": "vessel_156",
+        "name": "154",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "227\u00b0",
+        "draught": "8.1 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41007,
+        "built": 2004,
+        "imo": 9288555,
+        "mmsi": 419001505,
+        "latitude": -5.0258088597470145,
+        "longitude": 43.7774259277228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.70949584526045,
+          5.336779223584633
+        ]
+      },
+      "properties": {
+        "id": "vessel_157",
+        "name": "Swarna Brahmaputra",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Mangluru Anch, India",
+        "eta": "sep 10, 11:00",
+        "speed": "1.7 kn",
+        "course": "31\u00b0",
+        "draught": "12.5 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42746,
+        "built": 2012,
+        "imo": 9414814,
+        "mmsi": 419753000,
+        "latitude": 5.336779223584633,
+        "longitude": 61.70949584526045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.149007362847144,
+          -2.9228272779807636
+        ]
+      },
+      "properties": {
+        "id": "vessel_158",
+        "name": "156",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "191\u00b0",
+        "draught": "9.8 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44249,
+        "built": 2006,
+        "imo": 9288557,
+        "mmsi": 419001507,
+        "latitude": -2.9228272779807636,
+        "longitude": 62.149007362847144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.70949584526045,
+          11.593807221097435
+        ]
+      },
+      "properties": {
+        "id": "vessel_159",
+        "name": "157",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "156\u00b0",
+        "draught": "4.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40819,
+        "built": 2000,
+        "imo": 9288558,
+        "mmsi": 419001508,
+        "latitude": 11.593807221097435,
+        "longitude": 61.70949584526045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.97409313573441,
+          5.681106240668679
+        ]
+      },
+      "properties": {
+        "id": "vessel_160",
+        "name": "158",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "182\u00b0",
+        "draught": "5.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44609,
+        "built": 2003,
+        "imo": 9288559,
+        "mmsi": 419001509,
+        "latitude": 5.681106240668679,
+        "longitude": 53.97409313573441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.74220565992812,
+          -7.733526957115798
+        ]
+      },
+      "properties": {
+        "id": "vessel_161",
+        "name": "158",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "177\u00b0",
+        "draught": "7.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41023,
+        "built": 2018,
+        "imo": 9288560,
+        "mmsi": 419001510,
+        "latitude": -7.733526957115798,
+        "longitude": 68.74220565992812
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.2034701584137,
+          -0.37025424249835276
+        ]
+      },
+      "properties": {
+        "id": "vessel_162",
+        "name": "Francis Beaufort",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Male, Maldivs",
+        "eta": "oct 22, 8:00",
+        "speed": "14.6 kn",
+        "course": "216\u00b0",
+        "draught": "6.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 10:49 UTC",
+        "gross_tonnage": 43049,
+        "built": 2005,
+        "imo": 9262780,
+        "mmsi": 253248000,
+        "latitude": -0.37025424249835276,
+        "longitude": 71.2034701584137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.72134305895122,
+          -11.5474468664565
+        ]
+      },
+      "properties": {
+        "id": "vessel_163",
+        "name": "160",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "110\u00b0",
+        "draught": "8.3 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41036,
+        "built": 2000,
+        "imo": 9288562,
+        "mmsi": 419001512,
+        "latitude": -11.5474468664565,
+        "longitude": 58.72134305895122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.29288299552334,
+          9.313284704440816
+        ]
+      },
+      "properties": {
+        "id": "vessel_164",
+        "name": "161",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "19\u00b0",
+        "draught": "8.1 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41978,
+        "built": 2001,
+        "imo": 9288563,
+        "mmsi": 419001513,
+        "latitude": 9.313284704440816,
+        "longitude": 88.29288299552334
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.77943463270553,
+          13.657178765888917
+        ]
+      },
+      "properties": {
+        "id": "vessel_165",
+        "name": "162",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "334\u00b0",
+        "draught": "5.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41885,
+        "built": 2007,
+        "imo": 9288564,
+        "mmsi": 419001514,
+        "latitude": 13.657178765888917,
+        "longitude": 88.77943463270553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9431991164626,
+          43.063801453304066
+        ]
+      },
+      "properties": {
+        "id": "vessel_166",
+        "name": "163",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "227\u00b0",
+        "draught": "9.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42180,
+        "built": 2015,
+        "imo": 9288565,
+        "mmsi": 419001515,
+        "latitude": 43.063801453304066,
+        "longitude": 30.9431991164626
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6568488450898,
+          43.095916810545376
+        ]
+      },
+      "properties": {
+        "id": "vessel_167",
+        "name": "164",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "236\u00b0",
+        "draught": "5.9 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42546,
+        "built": 2009,
+        "imo": 9288566,
+        "mmsi": 419001516,
+        "latitude": 43.095916810545376,
+        "longitude": 36.6568488450898
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.41148056946698,
+          41.99253698573291
+        ]
+      },
+      "properties": {
+        "id": "vessel_168",
+        "name": "165",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "17\u00b0",
+        "draught": "4.8 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40016,
+        "built": 2006,
+        "imo": 9288567,
+        "mmsi": 419001517,
+        "latitude": 41.99253698573291,
+        "longitude": 50.41148056946698
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.616853163900872,
+          50.93997111372989
+        ]
+      },
+      "properties": {
+        "id": "vessel_169",
+        "name": "166",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "184\u00b0",
+        "draught": "4.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42710,
+        "built": 2017,
+        "imo": 9288568,
+        "mmsi": 419001518,
+        "latitude": 50.93997111372989,
+        "longitude": -15.616853163900872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7702506710678,
+          40.6714296962328
+        ]
+      },
+      "properties": {
+        "id": "vessel_170",
+        "name": "167",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "27\u00b0",
+        "draught": "6.8 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42444,
+        "built": 2015,
+        "imo": 9288569,
+        "mmsi": 419001519,
+        "latitude": 40.6714296962328,
+        "longitude": -68.7702506710678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.37369038570507,
+          38.130709872914935
+        ]
+      },
+      "properties": {
+        "id": "vessel_171",
+        "name": "168",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "211\u00b0",
+        "draught": "9.3 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43638,
+        "built": 2016,
+        "imo": 9288570,
+        "mmsi": 419001520,
+        "latitude": 38.130709872914935,
+        "longitude": -72.37369038570507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60432263494788,
+          35.06025473066424
+        ]
+      },
+      "properties": {
+        "id": "vessel_172",
+        "name": "169",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "118\u00b0",
+        "draught": "5.3 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40769,
+        "built": 2024,
+        "imo": 9288571,
+        "mmsi": 419001521,
+        "latitude": 35.06025473066424,
+        "longitude": -73.60432263494788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34017053443486,
+          32.130860715927795
+        ]
+      },
+      "properties": {
+        "id": "vessel_173",
+        "name": "170",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "239\u00b0",
+        "draught": "8.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41186,
+        "built": 2023,
+        "imo": 9288572,
+        "mmsi": 419001522,
+        "latitude": 32.130860715927795,
+        "longitude": -77.34017053443486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.64411320787832,
+          26.489509172003608
+        ]
+      },
+      "properties": {
+        "id": "vessel_174",
+        "name": "171",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "90\u00b0",
+        "draught": "7.1 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42981,
+        "built": 2018,
+        "imo": 9288573,
+        "mmsi": 419001523,
+        "latitude": 26.489509172003608,
+        "longitude": -65.64411320787832
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38284148224268,
+          19.95949151438357
+        ]
+      },
+      "properties": {
+        "id": "vessel_175",
+        "name": "172",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "196\u00b0",
+        "draught": "7.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43409,
+        "built": 2011,
+        "imo": 9288574,
+        "mmsi": 419001524,
+        "latitude": 19.95949151438357,
+        "longitude": -81.38284148224268
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.06652000851874,
+          30.406875788452584
+        ]
+      },
+      "properties": {
+        "id": "vessel_176",
+        "name": "173",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "214\u00b0",
+        "draught": "8.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44715,
+        "built": 2013,
+        "imo": 9288575,
+        "mmsi": 419001525,
+        "latitude": 30.406875788452584,
+        "longitude": -80.06652000851874
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.49481927828246,
+          25.47711198492778
+        ]
+      },
+      "properties": {
+        "id": "vessel_177",
+        "name": "174",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "204\u00b0",
+        "draught": "9.1 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40584,
+        "built": 2013,
+        "imo": 9288576,
+        "mmsi": 419001526,
+        "latitude": 25.47711198492778,
+        "longitude": -79.49481927828246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.20913679185111,
+          26.3865717168231
+        ]
+      },
+      "properties": {
+        "id": "vessel_178",
+        "name": "175",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "142\u00b0",
+        "draught": "5.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42637,
+        "built": 2022,
+        "imo": 9288577,
+        "mmsi": 419001527,
+        "latitude": 26.3865717168231,
+        "longitude": -79.20913679185111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0548625707348,
+          26.52326052826066
+        ]
+      },
+      "properties": {
+        "id": "vessel_179",
+        "name": "176",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "96\u00b0",
+        "draught": "4.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40571,
+        "built": 2003,
+        "imo": 9288578,
+        "mmsi": 419001528,
+        "latitude": 26.52326052826066,
+        "longitude": -83.0548625707348
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14343265919356,
+          33.722275866228344
+        ]
+      },
+      "properties": {
+        "id": "vessel_180",
+        "name": "177",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "104\u00b0",
+        "draught": "9.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43095,
+        "built": 2006,
+        "imo": 9288579,
+        "mmsi": 419001529,
+        "latitude": 33.722275866228344,
+        "longitude": -77.14343265919356
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.64864830943779,
+          31.425271269075925
+        ]
+      },
+      "properties": {
+        "id": "vessel_181",
+        "name": "178",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "131\u00b0",
+        "draught": "7.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40311,
+        "built": 2019,
+        "imo": 9288580,
+        "mmsi": 419001530,
+        "latitude": 31.425271269075925,
+        "longitude": -79.64864830943779
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.42729270079403,
+          22.120485404556728
+        ]
+      },
+      "properties": {
+        "id": "vessel_182",
+        "name": "179",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "330\u00b0",
+        "draught": "6.9 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44678,
+        "built": 2003,
+        "imo": 9288581,
+        "mmsi": 419001531,
+        "latitude": 22.120485404556728,
+        "longitude": -87.42729270079403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.43794659626298,
+          22.038995898536236
+        ]
+      },
+      "properties": {
+        "id": "vessel_183",
+        "name": "180",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "183\u00b0",
+        "draught": "4.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43814,
+        "built": 2004,
+        "imo": 9288582,
+        "mmsi": 419001532,
+        "latitude": 22.038995898536236,
+        "longitude": -90.43794659626298
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8022066252413,
+          29.362223948860443
+        ]
+      },
+      "properties": {
+        "id": "vessel_184",
+        "name": "182",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "221\u00b0",
+        "draught": "9.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44700,
+        "built": 2010,
+        "imo": 9288583,
+        "mmsi": 419001533,
+        "latitude": 29.362223948860443,
+        "longitude": -85.8022066252413
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1754666331828,
+          29.629896946895514
+        ]
+      },
+      "properties": {
+        "id": "vessel_185",
+        "name": "183",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "136\u00b0",
+        "draught": "9.9 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43618,
+        "built": 2015,
+        "imo": 9288584,
+        "mmsi": 419001534,
+        "latitude": 29.629896946895514,
+        "longitude": -88.1754666331828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.21817915895227,
+          28.41701167359245
+        ]
+      },
+      "properties": {
+        "id": "vessel_186",
+        "name": "184",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "49\u00b0",
+        "draught": "6.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40303,
+        "built": 2004,
+        "imo": 9288585,
+        "mmsi": 419001535,
+        "latitude": 28.41701167359245,
+        "longitude": -90.21817915895227
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.42372864355191,
+          24.396102776493702
+        ]
+      },
+      "properties": {
+        "id": "vessel_187",
+        "name": "185",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "136\u00b0",
+        "draught": "8.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42321,
+        "built": 2022,
+        "imo": 9288586,
+        "mmsi": 419001536,
+        "latitude": 24.396102776493702,
+        "longitude": -93.42372864355191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.16472655513579,
+          11.295565240008338
+        ]
+      },
+      "properties": {
+        "id": "vessel_188",
+        "name": "186",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "30\u00b0",
+        "draught": "7.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43435,
+        "built": 2003,
+        "imo": 9288587,
+        "mmsi": 419001537,
+        "latitude": 11.295565240008338,
+        "longitude": -81.16472655513579
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19780121644501,
+          5.688034191137815
+        ]
+      },
+      "properties": {
+        "id": "vessel_189",
+        "name": "187",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "39\u00b0",
+        "draught": "10.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41478,
+        "built": 2003,
+        "imo": 9288588,
+        "mmsi": 419001538,
+        "latitude": 5.688034191137815,
+        "longitude": -80.19780121644501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47282980740744,
+          10.950418183248273
+        ]
+      },
+      "properties": {
+        "id": "vessel_190",
+        "name": "188",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "285\u00b0",
+        "draught": "8.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43663,
+        "built": 2022,
+        "imo": 9288589,
+        "mmsi": 419001539,
+        "latitude": 10.950418183248273,
+        "longitude": -77.47282980740744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.91430169555481,
+          12.80320351858514
+        ]
+      },
+      "properties": {
+        "id": "vessel_191",
+        "name": "189",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "143\u00b0",
+        "draught": "5.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43040,
+        "built": 2013,
+        "imo": 9288590,
+        "mmsi": 419001540,
+        "latitude": 12.80320351858514,
+        "longitude": -65.91430169555481
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1571460051299,
+          8.743841972246765
+        ]
+      },
+      "properties": {
+        "id": "vessel_192",
+        "name": "190",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "271\u00b0",
+        "draught": "8.3 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43899,
+        "built": 2001,
+        "imo": 9288591,
+        "mmsi": 419001541,
+        "latitude": 8.743841972246765,
+        "longitude": -56.1571460051299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.23663295870218,
+          3.0640382384919977
+        ]
+      },
+      "properties": {
+        "id": "vessel_193",
+        "name": "191",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "261\u00b0",
+        "draught": "8.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44783,
+        "built": 2024,
+        "imo": 9288592,
+        "mmsi": 419001542,
+        "latitude": 3.0640382384919977,
+        "longitude": -47.23663295870218
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.150642905374156,
+          -1.7697690478247483
+        ]
+      },
+      "properties": {
+        "id": "vessel_194",
+        "name": "192",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "310\u00b0",
+        "draught": "8.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43919,
+        "built": 2009,
+        "imo": 9288593,
+        "mmsi": 419001543,
+        "latitude": -1.7697690478247483,
+        "longitude": -39.150642905374156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.910712171825004,
+          -9.111920745940047
+        ]
+      },
+      "properties": {
+        "id": "vessel_195",
+        "name": "193",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "43\u00b0",
+        "draught": "4.5 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43149,
+        "built": 2015,
+        "imo": 9288594,
+        "mmsi": 419001544,
+        "latitude": -9.111920745940047,
+        "longitude": -32.910712171825004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.20690841151722,
+          -14.148582921841323
+        ]
+      },
+      "properties": {
+        "id": "vessel_196",
+        "name": "195",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "233\u00b0",
+        "draught": "4.9 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41581,
+        "built": 2008,
+        "imo": 9288595,
+        "mmsi": 419001545,
+        "latitude": -14.148582921841323,
+        "longitude": -36.20690841151722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.96449901968773,
+          -18.532818581559987
+        ]
+      },
+      "properties": {
+        "id": "vessel_197",
+        "name": "196",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "143\u00b0",
+        "draught": "6.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44327,
+        "built": 2007,
+        "imo": 9288596,
+        "mmsi": 419001546,
+        "latitude": -18.532818581559987,
+        "longitude": -37.96449901968773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.179231609722294,
+          -25.261865127566683
+        ]
+      },
+      "properties": {
+        "id": "vessel_198",
+        "name": "197",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "71\u00b0",
+        "draught": "8.1 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41249,
+        "built": 2024,
+        "imo": 9288597,
+        "mmsi": 419001547,
+        "latitude": -25.261865127566683,
+        "longitude": -42.179231609722294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.83805369614139,
+          -30.316110758995926
+        ]
+      },
+      "properties": {
+        "id": "vessel_199",
+        "name": "198",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "226\u00b0",
+        "draught": "4.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43527,
+        "built": 2000,
+        "imo": 9288598,
+        "mmsi": 419001548,
+        "latitude": -30.316110758995926,
+        "longitude": -46.83805369614139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.430726459942,
+          -37.60075434024519
+        ]
+      },
+      "properties": {
+        "id": "vessel_200",
+        "name": "199",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "341\u00b0",
+        "draught": "6.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42187,
+        "built": 2021,
+        "imo": 9288599,
+        "mmsi": 419001549,
+        "latitude": -37.60075434024519,
+        "longitude": -53.430726459942
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.846999012323515,
+          -41.7878751286406
+        ]
+      },
+      "properties": {
+        "id": "vessel_201",
+        "name": "200",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "9\u00b0",
+        "draught": "4.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44047,
+        "built": 2010,
+        "imo": 9288600,
+        "mmsi": 419001550,
+        "latitude": -41.7878751286406,
+        "longitude": -59.846999012323515
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.10222212217911,
+          -45.89780472485853
+        ]
+      },
+      "properties": {
+        "id": "vessel_202",
+        "name": "201",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "47\u00b0",
+        "draught": "7.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40753,
+        "built": 2019,
+        "imo": 9288601,
+        "mmsi": 419001551,
+        "latitude": -45.89780472485853,
+        "longitude": -63.10222212217911
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.21117085629614,
+          -50.60339435867893
+        ]
+      },
+      "properties": {
+        "id": "vessel_203",
+        "name": "202",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "231\u00b0",
+        "draught": "8.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41545,
+        "built": 2007,
+        "imo": 9288602,
+        "mmsi": 419001552,
+        "latitude": -50.60339435867893,
+        "longitude": -65.21117085629614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.541027089466645,
+          -54.04114104532345
+        ]
+      },
+      "properties": {
+        "id": "vessel_204",
+        "name": "203",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "54\u00b0",
+        "draught": "7.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43429,
+        "built": 2006,
+        "imo": 9288603,
+        "mmsi": 419001553,
+        "latitude": -54.04114104532345,
+        "longitude": -63.541027089466645
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.14591191359958,
+          -50.46365387806586
+        ]
+      },
+      "properties": {
+        "id": "vessel_205",
+        "name": "204",
+        "class": "Cruise",
+        "image": "cruise.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "256\u00b0",
+        "draught": "4.8 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40721,
+        "built": 2008,
+        "imo": 9288604,
+        "mmsi": 419001554,
+        "latitude": -50.46365387806586,
+        "longitude": -59.14591191359958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.695523905563455,
+          -53.18035298120447
+        ]
+      },
+      "properties": {
+        "id": "vessel_206",
+        "name": "205",
+        "class": "Fishing",
+        "image": "fishing.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "330\u00b0",
+        "draught": "5.6 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42636,
+        "built": 2005,
+        "imo": 9288605,
+        "mmsi": 419001555,
+        "latitude": -53.18035298120447,
+        "longitude": -57.695523905563455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.987626396826084,
+          -34.33300925406999
+        ]
+      },
+      "properties": {
+        "id": "vessel_207",
+        "name": "206",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "51\u00b0",
+        "draught": "6.2 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43707,
+        "built": 2020,
+        "imo": 9288606,
+        "mmsi": 419001556,
+        "latitude": -34.33300925406999,
+        "longitude": -28.987626396826084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.724809866196004,
+          -20.81863985087493
+        ]
+      },
+      "properties": {
+        "id": "vessel_208",
+        "name": "207",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "74\u00b0",
+        "draught": "6.1 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40192,
+        "built": 2006,
+        "imo": 9288607,
+        "mmsi": 419001557,
+        "latitude": -20.81863985087493,
+        "longitude": -20.724809866196004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1443491627277247,
+          -24.404062937628375
+        ]
+      },
+      "properties": {
+        "id": "vessel_209",
+        "name": "208",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "72\u00b0",
+        "draught": "8.8 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 43739,
+        "built": 2004,
+        "imo": 9288608,
+        "mmsi": 419001558,
+        "latitude": -24.404062937628375,
+        "longitude": -3.1443491627277247
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.72963914716737,
+          10.117267977975414
+        ]
+      },
+      "properties": {
+        "id": "vessel_210",
+        "name": "209",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "142\u00b0",
+        "draught": "5.1 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40713,
+        "built": 2018,
+        "imo": 9288609,
+        "mmsi": 419001559,
+        "latitude": 10.117267977975414,
+        "longitude": -36.72963914716737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17610347948039,
+          -19.191133316303965
+        ]
+      },
+      "properties": {
+        "id": "vessel_211",
+        "name": "210",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "23\u00b0",
+        "draught": "9.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44828,
+        "built": 2022,
+        "imo": 9288610,
+        "mmsi": 419001560,
+        "latitude": -19.191133316303965,
+        "longitude": 80.17610347948039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.74985423258394,
+          -19.495663853786873
+        ]
+      },
+      "properties": {
+        "id": "vessel_212",
+        "name": "211",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "149\u00b0",
+        "draught": "8.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41228,
+        "built": 2021,
+        "imo": 9288611,
+        "mmsi": 419001561,
+        "latitude": -19.495663853786873,
+        "longitude": 94.74985423258394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.910086178895962,
+          -12.433748569393613
+        ]
+      },
+      "properties": {
+        "id": "vessel_213",
+        "name": "213",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "1\u00b0",
+        "draught": "7.7 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 42871,
+        "built": 2014,
+        "imo": 9288612,
+        "mmsi": 419001562,
+        "latitude": -12.433748569393613,
+        "longitude": -7.910086178895962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.06663138253487,
+          8.047589346673785
+        ]
+      },
+      "properties": {
+        "id": "vessel_214",
+        "name": "214",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "83\u00b0",
+        "draught": "6.0 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44454,
+        "built": 2011,
+        "imo": 9288613,
+        "mmsi": 419001563,
+        "latitude": 8.047589346673785,
+        "longitude": 67.06663138253487
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.92058473788448,
+          12.975682627895697
+        ]
+      },
+      "properties": {
+        "id": "vessel_215",
+        "name": "215",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "339\u00b0",
+        "draught": "6.5 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 41736,
+        "built": 2011,
+        "imo": 9288614,
+        "mmsi": 419001564,
+        "latitude": 12.975682627895697,
+        "longitude": 65.92058473788448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.67685004838742,
+          -1.9491175098389593
+        ]
+      },
+      "properties": {
+        "id": "vessel_216",
+        "name": "216",
+        "class": "Cargo",
+        "image": "cargo.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "131\u00b0",
+        "draught": "7.3 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 40961,
+        "built": 2022,
+        "imo": 9288615,
+        "mmsi": 419001565,
+        "latitude": -1.9491175098389593,
+        "longitude": 83.67685004838742
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.49748392166504,
+          -15.730342272207816
+        ]
+      },
+      "properties": {
+        "id": "vessel_217",
+        "name": "217",
+        "class": "Tanker",
+        "image": "tanker.jpg",
+        "last_port": "Singapore",
+        "destination": "Rotterdam, Netherlands",
+        "eta": "Jun 10, 12:00",
+        "speed": "15.2 kn",
+        "course": "178\u00b0",
+        "draught": "7.4 m",
+        "status": "Under way",
+        "last_report": "Jun 06, 06:49 UTC",
+        "gross_tonnage": 44943,
+        "built": 2024,
+        "imo": 9288616,
+        "mmsi": 419001566,
+        "latitude": -15.730342272207816,
+        "longitude": 115.49748392166504
+      }
+    }
+  ]
+}

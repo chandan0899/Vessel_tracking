@@ -1,0 +1,31 @@
+<!-- templates/partials/container_booking.html -->
+<div class="card">
+  <h3>Book a Container</h3>
+  <form method="post" action="{% url 'book_container' %}" class="form">
+    {% csrf_token %}
+    <label>Select Vessel:</label>
+    <select name="vessel">
+      {% for vessel in vessels %}
+        <option value="{{ vessel.id }}">{{ vessel.name }}</option>
+      {% endfor %}
+    </select>
+
+    <label>Source Port:</label>
+    <input type="text" name="source_port" required>
+
+    <label>Destination Port:</label>
+    <input type="text" name="destination_port" required>
+
+    <label>Container Type:</label>
+    <select name="container_type">
+      <option>20ft</option>
+      <option>40ft</option>
+      <option>Refrigerated</option>
+    </select>
+
+    <label>Number of Containers:</label>
+    <input type="number" name="num_containers" min="1" required>
+
+    <button type="submit">Book Now</button>
+  </form>
+</div>

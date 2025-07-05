@@ -1,0 +1,43 @@
+/* Layout for main container */
+.main-container {
+  display: flex;
+  margin-top: 70px; /* space for header */
+}
+
+/* Sidebar styling */
+.sidebar {
+  width: 250px;
+  background-color: #2c3e50;
+  height: calc(100vh - 70px); /*Full height minus header */
+  position: fixed;
+  top: 73px;
+  left: 0;
+  transition: width 0.3s ease;
+} 
+
+/* Collapsed sidebar */
+.sidebar.close {
+  width: 90px;
+} 
+
+
+/* Map container styling */
+.map-container {
+  margin-left: 250px; /* match the sidebar default width */
+  width: calc(100% - 250px); /* remaining width */
+  height: calc(100vh - 60px); /* height minus header */
+  position: relative;
+  transition: margin-left 0.3s ease, width 0.3s ease
+}
+
+.sidebar.close ~ .map-container {
+  margin-left: 90px;
+  width: calc(100% - 90px);
+} 
+
+/* Actual map div */
+#map {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}

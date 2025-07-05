@@ -1,0 +1,19 @@
+<!-- templates/partials/vessel_tracker.html -->
+<div class="card">
+  <h3>My Vessels</h3>
+  <table>
+    <thead>
+      <tr><th>Name</th><th>Location</th><th>Speed</th><th>ETA</th></tr>
+    </thead>
+    <tbody>
+      {% for booking in bookings %}
+        <tr>
+          <td>{{ booking.vessel.name }}</td>
+          <td>{{ booking.vessel.current_location }}</td>
+          <td>{{ booking.vessel.speed }} knots</td>
+          <td>{{ booking.vessel.eta|date:'M d, Y H:i' }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>

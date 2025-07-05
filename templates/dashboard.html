@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% load humanize %}
+{% block index %}{% endblock %}
+{% block content %}
+<div class="dashboard-grid">
+
+  <!-- Row 1 -->
+  <div class="dashboard-row">
+    <div class="dashboard-item wide">
+      {% include 'partials/container_booking.html' %}
+    </div>
+    <div class="dashboard-item">
+      {% include 'partials/analytics.html' %}
+    </div>
+    <div class="dashboard-item">
+      {% include 'partials/notifications.html' %}
+    </div>
+  </div>
+
+  <!-- Row 2 -->
+  <div class="dashboard-row">
+    <div class="dashboard-item">
+      {% include 'partials/my_bookings.html' %}
+    </div>
+    <div class="dashboard-item">
+      {% include 'partials/vessel_tracker.html' %}
+    </div>
+  </div>
+
+</div>
+{% endblock %}

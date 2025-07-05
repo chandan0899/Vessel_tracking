@@ -1,0 +1,16 @@
+{% load humanize %}
+<div class="card">
+  <h3>Notifications</h3>
+  {% if notifications %}
+    <ul>
+      {% for notification in notifications %}
+        <li>
+          {{ notification.message }} <br />
+          <small>{{ notification.created_at|naturaltime }}</small>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No notifications found.</p>
+  {% endif %}
+</div>

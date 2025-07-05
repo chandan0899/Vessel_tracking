@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4f8fb;
+  color: #333;
+}
+
+header {
+  background-color: #0d6efd;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+.hero {
+  background: url('../images/ship.png') no-repeat center center/cover;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  flex-direction: column;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: white;
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.features {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  margin: 50px auto;
+  max-width: 1000px;
+}
+
+.feature-card {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  padding: 10px;
+  text-align: center;
+  width: 280px;
+}
+
+.feature-card .icon {
+  font-size: 2rem;
+}
+
+.feature-card h3 {
+  margin-top: 15px;
+  font-size: 1.2rem;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 20px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  width: 300px;
+  margin: 10px;
+}
+
+.feature-icon {
+  width: 86px;
+  height: 66px;
+  margin-bottom: 10px;
+}
+
+
+.stats {
+  background-color: #e9f2ff;
+  padding: 40px 0;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  font-size: 1.2rem;
+}
+
+.stats div {
+  text-align: center;
+}
+
+.stats strong {
+  font-size: 1.8rem;
+  color: #0d6efd;
+}
+
+.cta {
+  text-align: center;
+  padding: 40px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #f0f0f0;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+  .features {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .stats {
+    flex-direction: column;
+    gap: 20px;
+  }
+}

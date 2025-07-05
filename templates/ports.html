@@ -1,0 +1,54 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ports</title>
+  <link rel="stylesheet" href="{% static 'CSS/port.css' %}">
+</head>
+<body style="background-color:#b9d7ff; font-family: 'Segoe UI', sans-serif;">
+
+  <div class="page">
+
+    <!-- 🔍 Search -->
+    <div class="search-section">
+      <input type="text" id="search" placeholder="Port Name" />
+      <button id="filter-btn">Search Ports</button>
+    </div>
+
+    <!-- 📋 Table -->
+    <div class="table-section">
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>Flag</th>
+              <th>Port Name</th>
+              <th>Type</th>
+              <th>UN/LOCODE</th>
+              <th>More</th>
+            </tr>
+          </thead>
+          <tbody id="port-table-body">
+            <!-- JavaScript injects table rows here -->
+          </tbody>
+        </table>
+      </div>
+      <div class="count-footer">
+        Found <strong id="port-count">0</strong> ports
+      </div>
+    </div>
+
+    <!-- 🔄 Pagination -->
+    <div id="pagination" class="pagination-buttons"></div>
+
+  </div>
+
+  <!-- 🧠 Data Source + Script -->
+  <script>
+    const portsJsonUrl = "{% static 'data/ports.json' %}";
+    const flagPath = "{% static 'flags/' %}";
+  </script>
+  <script src="{% static 'JS/ports.js' %}"></script>
+</body>
+</html>

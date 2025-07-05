@@ -1,0 +1,58 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Vessel Tracking - Home</title>
+  <link rel="stylesheet" href="{% static 'CSS/home.css' %}">
+</head>
+<body>
+
+  <header>
+    <h2>Vessel Tracking</h2>
+  </header>
+
+  <section class="hero">
+    <h1>Welcome to Vessel Tracking</h1>
+    <p>Track vessels live across the Indian Ocean and beyond.<br>Stay updated with real-time maritime intelligence.</p>
+    <a href="{% url 'live_map' %}" class="btn-primary">Go to Live Map</a>
+  </section>
+
+  <section class="features">
+    <div class="feature-card">
+      <div class="icon"><img src="{% static 'vessels/icons/tracking.png' %}" alt="Live Tracking Icon" class="feature-icon"></div>
+      <h3>Live Vessel Tracking</h3>
+      <p>View real-time ship positions and movement on our interactive map.</p>
+    </div>
+    <div class="feature-card">
+      <div class="icon"><img src="{% static 'vessels/icons/pirate.png' %}" alt="Live Tracking Icon" class="feature-icon"></div>
+      <h3>Vessel Database</h3>
+      <p>Browse ships by name, type, GT, DWT, and more.</p>
+    </div>
+    <div class="feature-card">
+      <div class="icon"><img src="{% static 'vessels/icons/LH.png' %}" alt="Live Tracking Icon" class="feature-icon"></div>
+      <h3>Port & Lighthouse Info</h3>
+      <p>Explore ports, lighthouses, and maritime zones in detail.</p>
+    </div>
+  </section>
+
+  <section class="stats">
+    <div><strong>217</strong><br>Vessels Tracked</div>
+    <div><strong>18</strong><br>Countries Covered</div>
+    <div><strong>200</strong><br>Lighthouses Indexed</div>
+  </section>
+
+  <section class="cta">
+    <h2>Ready to navigate the seas?</h2>
+    <a href="{% url 'live_map' %}" class="btn-primary">View Live Map</a>
+  </section>
+
+  <footer>
+    © 2025 Vessel Tracking | Built by Chandan G
+  </footer>
+
+  <script src="{% static 'JS/home.js' %}"></script>
+</body>
+</html>

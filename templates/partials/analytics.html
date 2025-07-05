@@ -1,0 +1,50 @@
+<!-- templates/partials/analytics.html -->
+<div class="card">
+  <h3>Analytics</h3>
+  <canvas id="barChart" style="max-height: 200px;"></canvas>
+  <canvas id="pieChart" style="max-height: 200px; margin-top: 20px;"></canvas>
+
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const barCtx = document.getElementById('barChart').getContext('2d');
+    const pieCtx = document.getElementById('pieChart').getContext('2d');
+
+    const barChart = new Chart(barCtx, {
+      type: 'bar',
+      data: {
+        labels: {{ months|safe }},
+        datasets: [{
+          label: 'Monthly Bookings',
+          data: {{ totals|safe }},
+          backgroundColor: ['#fd6b61', '#3fb5ff', '#f4b942', '#6ed7a3', '#a186f4'],
+          borderColor: '#ffffff',
+          borderWidth: 2
+        }]
+      },
+      options: {
+        responsive: true,
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+
+    const pieChart = new Chart(pieCtx, {
+      type: 'pie',
+      data: {
+        labels: {{ container_labels|safe }},
+        datasets: [{
+          data: {{ container_counts|safe }},
+          backgroundColor: ['#FD6B61', '#3FB5FF', '#F4B942', '#6ED7A3', '#A186F4']
+        }]
+      },
+      options: {
+        responsive: true
+      }
+    });
+  });
+</script>

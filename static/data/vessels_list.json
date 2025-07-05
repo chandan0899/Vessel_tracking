@@ -1,0 +1,1802 @@
+[
+  {
+    "name": "HMM Algeciras 434",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 2023,
+    "type": "cargo",
+    "GT": 123576,
+    "DWT": 172194
+  },
+  {
+    "name": "Oasis of the Seas 121",
+    "country": "France",
+    "flag": "fr.png",
+    "built": 1992,
+    "type": "cruise",
+    "GT": 196600,
+    "DWT": 216642
+  },
+  {
+    "name": "Seawise Giant 640",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 1996,
+    "type": "tanker",
+    "GT": 128348,
+    "DWT": 181567
+  },
+  {
+    "name": "Northern Jaeger 885",
+    "country": "South Korea",
+    "flag": "kr.png",
+    "built": 2013,
+    "type": "fishing",
+    "GT": 34011,
+    "DWT": 144031
+  },
+  {
+    "name": "CSCL Globe 729",
+    "country": "Japan",
+    "flag": "jp.png",
+    "built": 2019,
+    "type": "cargo",
+    "GT": 104679,
+    "DWT": 195914
+  },
+  {
+    "name": "Harmony of the Seas 354",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 1999,
+    "type": "cruise",
+    "GT": 47191,
+    "DWT": 197127
+  },
+  {
+    "name": "Knock Nevis 260",
+    "country": "South Korea",
+    "flag": "kr.png",
+    "built": 2007,
+    "type": "tanker",
+    "GT": 153727,
+    "DWT": 112026
+  },
+  {
+    "name": "American Dynasty 200",
+    "country": "France",
+    "flag": "fr.png",
+    "built": 2005,
+    "type": "fishing",
+    "GT": 237015,
+    "DWT": 161503
+  },
+  {
+    "name": "Maersk Mc-Kinney Moller 133",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 2022,
+    "type": "cargo",
+    "GT": 152969,
+    "DWT": 168844
+  },
+  {
+    "name": "Wonder of the Seas 587",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 2014,
+    "type": "cruise",
+    "GT": 118885,
+    "DWT": 206237
+  },
+  {
+    "name": "Nai Superba 795",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 2015,
+    "type": "tanker",
+    "GT": 127956,
+    "DWT": 132487
+  },
+  {
+    "name": "Northern Jaeger 263",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 1990,
+    "type": "fishing",
+    "GT": 227044,
+    "DWT": 125190
+  },
+  {
+    "name": "Madrid Maersk 245",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 2009,
+    "type": "cargo",
+    "GT": 243056,
+    "DWT": 72111
+  },
+  {
+    "name": "Harmony of the Seas 613",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2006,
+    "type": "cruise",
+    "GT": 157477,
+    "DWT": 62380
+  },
+  {
+    "name": "Knock Nevis 877",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2003,
+    "type": "tanker",
+    "GT": 228037,
+    "DWT": 89828
+  },
+  {
+    "name": "American Dynasty 787",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 2010,
+    "type": "fishing",
+    "GT": 212604,
+    "DWT": 286423
+  },
+  {
+    "name": "MSC Oscar 230",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 2010,
+    "type": "cargo",
+    "GT": 97441,
+    "DWT": 77478
+  },
+  {
+    "name": "Celebrity Edge 540",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 2001,
+    "type": "cruise",
+    "GT": 31833,
+    "DWT": 86070
+  },
+  {
+    "name": "Esso Atlantic 181",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 2014,
+    "type": "tanker",
+    "GT": 129017,
+    "DWT": 91450
+  },
+  {
+    "name": "Northern Eagle 240",
+    "country": "France",
+    "flag": "fr.png",
+    "built": 1991,
+    "type": "fishing",
+    "GT": 167809,
+    "DWT": 266946
+  },
+  {
+    "name": "APL Merlion 908",
+    "country": "France",
+    "flag": "fr.png",
+    "built": 2009,
+    "type": "cargo",
+    "GT": 189091,
+    "DWT": 117117
+  },
+  {
+    "name": "Oasis of the Seas 555",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2023,
+    "type": "cruise",
+    "GT": 108000,
+    "DWT": 252847
+  },
+  {
+    "name": "Prairial 848",
+    "country": "Greece",
+    "flag": "gr.png",
+    "built": 2022,
+    "type": "tanker",
+    "GT": 219784,
+    "DWT": 295562
+  },
+  {
+    "name": "Pacific Knight 688",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2008,
+    "type": "fishing",
+    "GT": 78377,
+    "DWT": 264925
+  },
+  {
+    "name": "CMA CGM Marco Polo 196",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2007,
+    "type": "cargo",
+    "GT": 167057,
+    "DWT": 105737
+  },
+  {
+    "name": "Norwegian Bliss 311",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 2017,
+    "type": "cruise",
+    "GT": 80639,
+    "DWT": 128078
+  },
+  {
+    "name": "Esso Atlantic 349",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 1995,
+    "type": "tanker",
+    "GT": 215610,
+    "DWT": 206773
+  },
+  {
+    "name": "Ocean Phoenix 307",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 1993,
+    "type": "fishing",
+    "GT": 112127,
+    "DWT": 183130
+  },
+  {
+    "name": "MSC G\u00fcls\u00fcn 169",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2001,
+    "type": "cargo",
+    "GT": 175605,
+    "DWT": 32078
+  },
+  {
+    "name": "Allure of the Seas 713",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 1994,
+    "type": "cruise",
+    "GT": 81941,
+    "DWT": 16415
+  },
+  {
+    "name": "TI Europe 956",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2004,
+    "type": "tanker",
+    "GT": 93712,
+    "DWT": 201386
+  },
+  {
+    "name": "M/V Alaska Ocean 170",
+    "country": "South Korea",
+    "flag": "kr.png",
+    "built": 2014,
+    "type": "fishing",
+    "GT": 112640,
+    "DWT": 202150
+  },
+  {
+    "name": "NYK Vega 481",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2023,
+    "type": "cargo",
+    "GT": 186891,
+    "DWT": 56402
+  },
+  {
+    "name": "Norwegian Bliss 882",
+    "country": "South Korea",
+    "flag": "kr.png",
+    "built": 2005,
+    "type": "cruise",
+    "GT": 99048,
+    "DWT": 177971
+  },
+  {
+    "name": "Esso Atlantic 781",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2018,
+    "type": "tanker",
+    "GT": 161107,
+    "DWT": 6739
+  },
+  {
+    "name": "Northern Eagle 648",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2010,
+    "type": "fishing",
+    "GT": 157291,
+    "DWT": 174423
+  },
+  {
+    "name": "Ever Given 228",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 2005,
+    "type": "cargo",
+    "GT": 12016,
+    "DWT": 86503
+  },
+  {
+    "name": "Symphony of the Seas 253",
+    "country": "France",
+    "flag": "fr.png",
+    "built": 2003,
+    "type": "cruise",
+    "GT": 13738,
+    "DWT": 72254
+  },
+  {
+    "name": "M/V Sirius Star 664",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 1992,
+    "type": "tanker",
+    "GT": 148098,
+    "DWT": 100700
+  },
+  {
+    "name": "Endeavour 638",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2022,
+    "type": "fishing",
+    "GT": 23512,
+    "DWT": 20627
+  },
+  {
+    "name": "APL Merlion 584",
+    "country": "South Korea",
+    "flag": "kr.png",
+    "built": 2022,
+    "type": "cargo",
+    "GT": 159709,
+    "DWT": 119617
+  },
+  {
+    "name": "Oasis of the Seas 434",
+    "country": "Japan",
+    "flag": "jp.png",
+    "built": 1997,
+    "type": "cruise",
+    "GT": 35903,
+    "DWT": 114490
+  },
+  {
+    "name": "Batillus 717",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 2022,
+    "type": "tanker",
+    "GT": 95138,
+    "DWT": 171582
+  },
+  {
+    "name": "M/V Alaska Ocean 847",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 2010,
+    "type": "fishing",
+    "GT": 222310,
+    "DWT": 127650
+  },
+  {
+    "name": "CSCL Globe 462",
+    "country": "Greece",
+    "flag": "gr.png",
+    "built": 2016,
+    "type": "cargo",
+    "GT": 22400,
+    "DWT": 25761
+  },
+  {
+    "name": "Wonder of the Seas 205",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 1994,
+    "type": "cruise",
+    "GT": 161426,
+    "DWT": 59083
+  },
+  {
+    "name": "Prairial 859",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 2006,
+    "type": "tanker",
+    "GT": 240328,
+    "DWT": 154010
+  },
+  {
+    "name": "Liberty 274",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 1994,
+    "type": "fishing",
+    "GT": 118881,
+    "DWT": 134315
+  },
+  {
+    "name": "HMM Algeciras 508",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2003,
+    "type": "cargo",
+    "GT": 200419,
+    "DWT": 268390
+  },
+  {
+    "name": "Oasis of the Seas 140",
+    "country": "Japan",
+    "flag": "jp.png",
+    "built": 2013,
+    "type": "cruise",
+    "GT": 23389,
+    "DWT": 67570
+  },
+  {
+    "name": "Seawise Giant 632",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2019,
+    "type": "tanker",
+    "GT": 227211,
+    "DWT": 115998
+  },
+  {
+    "name": "Northern Jaeger 714",
+    "country": "Japan",
+    "flag": "jp.png",
+    "built": 1995,
+    "type": "fishing",
+    "GT": 143632,
+    "DWT": 110493
+  },
+  {
+    "name": "Madrid Maersk 382",
+    "country": "South Korea",
+    "flag": "kr.png",
+    "built": 1996,
+    "type": "cargo",
+    "GT": 224746,
+    "DWT": 117008
+  },
+  {
+    "name": "Symphony of the Seas 825",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2000,
+    "type": "cruise",
+    "GT": 46412,
+    "DWT": 65085
+  },
+  {
+    "name": "TI Europe 262",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2017,
+    "type": "tanker",
+    "GT": 122842,
+    "DWT": 149537
+  },
+  {
+    "name": "America's Finest 601",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 1995,
+    "type": "fishing",
+    "GT": 70470,
+    "DWT": 10691
+  },
+  {
+    "name": "Maersk Mc-Kinney Moller 641",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 2006,
+    "type": "cargo",
+    "GT": 129477,
+    "DWT": 279502
+  },
+  {
+    "name": "Harmony of the Seas 774",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 1999,
+    "type": "cruise",
+    "GT": 17935,
+    "DWT": 141567
+  },
+  {
+    "name": "DSME VLCC 240",
+    "country": "Greece",
+    "flag": "gr.png",
+    "built": 2009,
+    "type": "tanker",
+    "GT": 39236,
+    "DWT": 257136
+  },
+  {
+    "name": "Northern Jaeger 933",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 2010,
+    "type": "fishing",
+    "GT": 112700,
+    "DWT": 96899
+  },
+  {
+    "name": "CMA CGM Marco Polo 872",
+    "country": "Japan",
+    "flag": "jp.png",
+    "built": 2011,
+    "type": "cargo",
+    "GT": 241102,
+    "DWT": 240118
+  },
+  {
+    "name": "Celebrity Edge 631",
+    "country": "South Korea",
+    "flag": "kr.png",
+    "built": 2000,
+    "type": "cruise",
+    "GT": 208665,
+    "DWT": 30351
+  },
+  {
+    "name": "Seawise Giant 824",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 2007,
+    "type": "tanker",
+    "GT": 80158,
+    "DWT": 82414
+  },
+  {
+    "name": "Arctic Storm 375",
+    "country": "Greece",
+    "flag": "gr.png",
+    "built": 2012,
+    "type": "fishing",
+    "GT": 50175,
+    "DWT": 27269
+  },
+  {
+    "name": "Madrid Maersk 267",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 2021,
+    "type": "cargo",
+    "GT": 51745,
+    "DWT": 154022
+  },
+  {
+    "name": "AIDAnova 770",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2014,
+    "type": "cruise",
+    "GT": 43529,
+    "DWT": 226298
+  },
+  {
+    "name": "Batillus 671",
+    "country": "South Korea",
+    "flag": "kr.png",
+    "built": 2022,
+    "type": "tanker",
+    "GT": 5914,
+    "DWT": 271325
+  },
+  {
+    "name": "Liberty 902",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 1994,
+    "type": "fishing",
+    "GT": 17717,
+    "DWT": 33313
+  },
+  {
+    "name": "Maersk Mc-Kinney Moller 232",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 2019,
+    "type": "cargo",
+    "GT": 28179,
+    "DWT": 59018
+  },
+  {
+    "name": "AIDAnova 208",
+    "country": "South Korea",
+    "flag": "kr.png",
+    "built": 2002,
+    "type": "cruise",
+    "GT": 163351,
+    "DWT": 170330
+  },
+  {
+    "name": "DSME VLCC 101",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2006,
+    "type": "tanker",
+    "GT": 203740,
+    "DWT": 254456
+  },
+  {
+    "name": "Ocean Phoenix 249",
+    "country": "Japan",
+    "flag": "jp.png",
+    "built": 1992,
+    "type": "fishing",
+    "GT": 112648,
+    "DWT": 136429
+  },
+  {
+    "name": "HMM Algeciras 169",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 2010,
+    "type": "cargo",
+    "GT": 232399,
+    "DWT": 272583
+  },
+  {
+    "name": "Carnival Vista 480",
+    "country": "France",
+    "flag": "fr.png",
+    "built": 2010,
+    "type": "cruise",
+    "GT": 143412,
+    "DWT": 268883
+  },
+  {
+    "name": "Nai Superba 658",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 2016,
+    "type": "tanker",
+    "GT": 94729,
+    "DWT": 70015
+  },
+  {
+    "name": "M/V Alaska Ocean 241",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 1993,
+    "type": "fishing",
+    "GT": 208419,
+    "DWT": 140363
+  },
+  {
+    "name": "Madrid Maersk 820",
+    "country": "France",
+    "flag": "fr.png",
+    "built": 2008,
+    "type": "cargo",
+    "GT": 237266,
+    "DWT": 281879
+  },
+  {
+    "name": "Wonder of the Seas 543",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 2018,
+    "type": "cruise",
+    "GT": 157763,
+    "DWT": 125281
+  },
+  {
+    "name": "Knock Nevis 965",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 1993,
+    "type": "tanker",
+    "GT": 72426,
+    "DWT": 35912
+  },
+  {
+    "name": "Liberty 861",
+    "country": "France",
+    "flag": "fr.png",
+    "built": 2006,
+    "type": "fishing",
+    "GT": 78696,
+    "DWT": 104619
+  },
+  {
+    "name": "Ever Given 591",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 2020,
+    "type": "cargo",
+    "GT": 132080,
+    "DWT": 75531
+  },
+  {
+    "name": "Norwegian Bliss 891",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 1995,
+    "type": "cruise",
+    "GT": 244926,
+    "DWT": 87993
+  },
+  {
+    "name": "M/V Sirius Star 170",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2014,
+    "type": "tanker",
+    "GT": 125658,
+    "DWT": 6721
+  },
+  {
+    "name": "American Dynasty 484",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2004,
+    "type": "fishing",
+    "GT": 32361,
+    "DWT": 179055
+  },
+  {
+    "name": "MSC G\u00fcls\u00fcn 967",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 2013,
+    "type": "cargo",
+    "GT": 162491,
+    "DWT": 28590
+  },
+  {
+    "name": "Symphony of the Seas 625",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 2014,
+    "type": "cruise",
+    "GT": 145899,
+    "DWT": 63875
+  },
+  {
+    "name": "Jahre Viking 162",
+    "country": "France",
+    "flag": "fr.png",
+    "built": 2009,
+    "type": "tanker",
+    "GT": 197818,
+    "DWT": 214260
+  },
+  {
+    "name": "Northern Eagle 502",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 1991,
+    "type": "fishing",
+    "GT": 119451,
+    "DWT": 283035
+  },
+  {
+    "name": "NYK Vega 104",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 2011,
+    "type": "cargo",
+    "GT": 224537,
+    "DWT": 64831
+  },
+  {
+    "name": "Allure of the Seas 131",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 2009,
+    "type": "cruise",
+    "GT": 74211,
+    "DWT": 40301
+  },
+  {
+    "name": "Knock Nevis 642",
+    "country": "Greece",
+    "flag": "gr.png",
+    "built": 2006,
+    "type": "tanker",
+    "GT": 46147,
+    "DWT": 155367
+  },
+  {
+    "name": "Northern Jaeger 929",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 2006,
+    "type": "fishing",
+    "GT": 14817,
+    "DWT": 274266
+  },
+  {
+    "name": "MSC G\u00fcls\u00fcn 657",
+    "country": "Greece",
+    "flag": "gr.png",
+    "built": 1999,
+    "type": "cargo",
+    "GT": 11188,
+    "DWT": 281180
+  },
+  {
+    "name": "Symphony of the Seas 274",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 2010,
+    "type": "cruise",
+    "GT": 165346,
+    "DWT": 246768
+  },
+  {
+    "name": "Prairial 395",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 2001,
+    "type": "tanker",
+    "GT": 127448,
+    "DWT": 180467
+  },
+  {
+    "name": "M/V Alaska Ocean 184",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 1998,
+    "type": "fishing",
+    "GT": 135662,
+    "DWT": 175866
+  },
+  {
+    "name": "NYK Vega 930",
+    "country": "Japan",
+    "flag": "jp.png",
+    "built": 2004,
+    "type": "cargo",
+    "GT": 19816,
+    "DWT": 125901
+  },
+  {
+    "name": "Wonder of the Seas 614",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 2001,
+    "type": "cruise",
+    "GT": 50275,
+    "DWT": 232594
+  },
+  {
+    "name": "Esso Atlantic 308",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2002,
+    "type": "tanker",
+    "GT": 102393,
+    "DWT": 268666
+  },
+  {
+    "name": "Arctic Storm 814",
+    "country": "France",
+    "flag": "fr.png",
+    "built": 2003,
+    "type": "fishing",
+    "GT": 64636,
+    "DWT": 211806
+  },
+  {
+    "name": "Maersk Mc-Kinney Moller 228",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 1996,
+    "type": "cargo",
+    "GT": 172720,
+    "DWT": 259685
+  },
+  {
+    "name": "Harmony of the Seas 819",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 1999,
+    "type": "cruise",
+    "GT": 93200,
+    "DWT": 14552
+  },
+  {
+    "name": "Jahre Viking 480",
+    "country": "South Korea",
+    "flag": "kr.png",
+    "built": 2001,
+    "type": "tanker",
+    "GT": 142737,
+    "DWT": 246090
+  },
+  {
+    "name": "America's Finest 885",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 2002,
+    "type": "fishing",
+    "GT": 15704,
+    "DWT": 262962
+  },
+  {
+    "name": "Maersk Mc-Kinney Moller 349",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 1994,
+    "type": "cargo",
+    "GT": 7716,
+    "DWT": 294892
+  },
+  {
+    "name": "Oasis of the Seas 731",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2010,
+    "type": "cruise",
+    "GT": 149565,
+    "DWT": 253276
+  },
+  {
+    "name": "TI Europe 525",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2007,
+    "type": "tanker",
+    "GT": 41520,
+    "DWT": 158767
+  },
+  {
+    "name": "American Dynasty 683",
+    "country": "Japan",
+    "flag": "jp.png",
+    "built": 2021,
+    "type": "fishing",
+    "GT": 73495,
+    "DWT": 214937
+  },
+  {
+    "name": "Madrid Maersk 988",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2020,
+    "type": "cargo",
+    "GT": 138089,
+    "DWT": 262390
+  },
+  {
+    "name": "Allure of the Seas 452",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 2002,
+    "type": "cruise",
+    "GT": 236010,
+    "DWT": 100269
+  },
+  {
+    "name": "Nai Superba 885",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2020,
+    "type": "tanker",
+    "GT": 230242,
+    "DWT": 212635
+  },
+  {
+    "name": "America's Finest 945",
+    "country": "Greece",
+    "flag": "gr.png",
+    "built": 2009,
+    "type": "fishing",
+    "GT": 175451,
+    "DWT": 124364
+  },
+  {
+    "name": "CMA CGM Marco Polo 156",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 2021,
+    "type": "cargo",
+    "GT": 70951,
+    "DWT": 273976
+  },
+  {
+    "name": "MSC Meraviglia 929",
+    "country": "Greece",
+    "flag": "gr.png",
+    "built": 2018,
+    "type": "cruise",
+    "GT": 27553,
+    "DWT": 259305
+  },
+  {
+    "name": "Esso Atlantic 378",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 2022,
+    "type": "tanker",
+    "GT": 165815,
+    "DWT": 8169
+  },
+  {
+    "name": "Ocean Phoenix 426",
+    "country": "Greece",
+    "flag": "gr.png",
+    "built": 1994,
+    "type": "fishing",
+    "GT": 167661,
+    "DWT": 41753
+  },
+  {
+    "name": "HMM Algeciras 768",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 2004,
+    "type": "cargo",
+    "GT": 114710,
+    "DWT": 289334
+  },
+  {
+    "name": "Norwegian Bliss 706",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 2009,
+    "type": "cruise",
+    "GT": 156562,
+    "DWT": 79342
+  },
+  {
+    "name": "TI Europe 877",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 1990,
+    "type": "tanker",
+    "GT": 108421,
+    "DWT": 137816
+  },
+  {
+    "name": "Liberty 669",
+    "country": "Japan",
+    "flag": "jp.png",
+    "built": 2009,
+    "type": "fishing",
+    "GT": 133227,
+    "DWT": 72250
+  },
+  {
+    "name": "CMA CGM Marco Polo 292",
+    "country": "Japan",
+    "flag": "jp.png",
+    "built": 2014,
+    "type": "cargo",
+    "GT": 191950,
+    "DWT": 284391
+  },
+  {
+    "name": "Carnival Vista 487",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2013,
+    "type": "cruise",
+    "GT": 52295,
+    "DWT": 252399
+  },
+  {
+    "name": "Batillus 803",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2007,
+    "type": "tanker",
+    "GT": 5373,
+    "DWT": 39593
+  },
+  {
+    "name": "Ocean Phoenix 433",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 2019,
+    "type": "fishing",
+    "GT": 69736,
+    "DWT": 161613
+  },
+  {
+    "name": "NYK Vega 364",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 2020,
+    "type": "cargo",
+    "GT": 226531,
+    "DWT": 14509
+  },
+  {
+    "name": "Allure of the Seas 939",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 1993,
+    "type": "cruise",
+    "GT": 162510,
+    "DWT": 12094
+  },
+  {
+    "name": "Prairial 876",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 2010,
+    "type": "tanker",
+    "GT": 72526,
+    "DWT": 152542
+  },
+  {
+    "name": "America's Finest 479",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 1997,
+    "type": "fishing",
+    "GT": 204132,
+    "DWT": 173460
+  },
+  {
+    "name": "MSC G\u00fcls\u00fcn 189",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 2006,
+    "type": "cargo",
+    "GT": 202846,
+    "DWT": 170041
+  },
+  {
+    "name": "Symphony of the Seas 680",
+    "country": "South Korea",
+    "flag": "kr.png",
+    "built": 2019,
+    "type": "cruise",
+    "GT": 88354,
+    "DWT": 103388
+  },
+  {
+    "name": "Jahre Viking 599",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2017,
+    "type": "tanker",
+    "GT": 154514,
+    "DWT": 295293
+  },
+  {
+    "name": "Pacific Knight 990",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 1995,
+    "type": "fishing",
+    "GT": 190400,
+    "DWT": 257419
+  },
+  {
+    "name": "Maersk Mc-Kinney Moller 433",
+    "country": "Greece",
+    "flag": "gr.png",
+    "built": 1996,
+    "type": "cargo",
+    "GT": 230949,
+    "DWT": 65955
+  },
+  {
+    "name": "AIDAnova 688",
+    "country": "France",
+    "flag": "fr.png",
+    "built": 2007,
+    "type": "cruise",
+    "GT": 85130,
+    "DWT": 242331
+  },
+  {
+    "name": "Prairial 869",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 2003,
+    "type": "tanker",
+    "GT": 57066,
+    "DWT": 141081
+  },
+  {
+    "name": "Ocean Phoenix 426",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 2006,
+    "type": "fishing",
+    "GT": 103260,
+    "DWT": 259625
+  },
+  {
+    "name": "MSC G\u00fcls\u00fcn 536",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2001,
+    "type": "cargo",
+    "GT": 55229,
+    "DWT": 117080
+  },
+  {
+    "name": "Norwegian Bliss 177",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2016,
+    "type": "cruise",
+    "GT": 28745,
+    "DWT": 63449
+  },
+  {
+    "name": "Jahre Viking 600",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 2000,
+    "type": "tanker",
+    "GT": 200691,
+    "DWT": 264971
+  },
+  {
+    "name": "America's Finest 748",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 1991,
+    "type": "fishing",
+    "GT": 118553,
+    "DWT": 274166
+  },
+  {
+    "name": "CMA CGM Marco Polo 896",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2001,
+    "type": "cargo",
+    "GT": 166795,
+    "DWT": 108183
+  },
+  {
+    "name": "Allure of the Seas 518",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 2006,
+    "type": "cruise",
+    "GT": 129858,
+    "DWT": 146216
+  },
+  {
+    "name": "Seawise Giant 875",
+    "country": "Japan",
+    "flag": "jp.png",
+    "built": 2012,
+    "type": "tanker",
+    "GT": 5619,
+    "DWT": 105120
+  },
+  {
+    "name": "Pacific Knight 329",
+    "country": "Greece",
+    "flag": "gr.png",
+    "built": 2021,
+    "type": "fishing",
+    "GT": 67476,
+    "DWT": 54529
+  },
+  {
+    "name": "NYK Vega 883",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 2008,
+    "type": "cargo",
+    "GT": 142731,
+    "DWT": 248478
+  },
+  {
+    "name": "Symphony of the Seas 709",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 1999,
+    "type": "cruise",
+    "GT": 209494,
+    "DWT": 172111
+  },
+  {
+    "name": "Esso Atlantic 793",
+    "country": "South Korea",
+    "flag": "kr.png",
+    "built": 2012,
+    "type": "tanker",
+    "GT": 80315,
+    "DWT": 181789
+  },
+  {
+    "name": "America's Finest 615",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 1993,
+    "type": "fishing",
+    "GT": 111781,
+    "DWT": 246542
+  },
+  {
+    "name": "Madrid Maersk 248",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2011,
+    "type": "cargo",
+    "GT": 57285,
+    "DWT": 25762
+  },
+  {
+    "name": "Allure of the Seas 394",
+    "country": "Greece",
+    "flag": "gr.png",
+    "built": 2014,
+    "type": "cruise",
+    "GT": 49153,
+    "DWT": 288695
+  },
+  {
+    "name": "Prairial 237",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 2000,
+    "type": "tanker",
+    "GT": 122416,
+    "DWT": 166818
+  },
+  {
+    "name": "Northern Jaeger 599",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2000,
+    "type": "fishing",
+    "GT": 155430,
+    "DWT": 243711
+  },
+  {
+    "name": "APL Merlion 101",
+    "country": "France",
+    "flag": "fr.png",
+    "built": 1998,
+    "type": "cargo",
+    "GT": 67705,
+    "DWT": 6987
+  },
+  {
+    "name": "Oasis of the Seas 220",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2009,
+    "type": "cruise",
+    "GT": 53964,
+    "DWT": 258148
+  },
+  {
+    "name": "Prairial 785",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 1990,
+    "type": "tanker",
+    "GT": 124618,
+    "DWT": 187441
+  },
+  {
+    "name": "America's Finest 809",
+    "country": "South Korea",
+    "flag": "kr.png",
+    "built": 1995,
+    "type": "fishing",
+    "GT": 158083,
+    "DWT": 21617
+  },
+  {
+    "name": "CMA CGM Marco Polo 742",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 1990,
+    "type": "cargo",
+    "GT": 23942,
+    "DWT": 139999
+  },
+  {
+    "name": "AIDAnova 924",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 1997,
+    "type": "cruise",
+    "GT": 85287,
+    "DWT": 86994
+  },
+  {
+    "name": "DSME VLCC 430",
+    "country": "Japan",
+    "flag": "jp.png",
+    "built": 2015,
+    "type": "tanker",
+    "GT": 81268,
+    "DWT": 98344
+  },
+  {
+    "name": "Northern Eagle 401",
+    "country": "France",
+    "flag": "fr.png",
+    "built": 2006,
+    "type": "fishing",
+    "GT": 57547,
+    "DWT": 183511
+  },
+  {
+    "name": "CSCL Globe 767",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2013,
+    "type": "cargo",
+    "GT": 19257,
+    "DWT": 135748
+  },
+  {
+    "name": "Oasis of the Seas 181",
+    "country": "Greece",
+    "flag": "gr.png",
+    "built": 2017,
+    "type": "cruise",
+    "GT": 127033,
+    "DWT": 12272
+  },
+  {
+    "name": "M/V Sirius Star 661",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 2012,
+    "type": "tanker",
+    "GT": 94855,
+    "DWT": 5418
+  },
+  {
+    "name": "Liberty 867",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2006,
+    "type": "fishing",
+    "GT": 243233,
+    "DWT": 261912
+  },
+  {
+    "name": "CMA CGM Marco Polo 274",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2022,
+    "type": "cargo",
+    "GT": 34982,
+    "DWT": 123920
+  },
+  {
+    "name": "Allure of the Seas 734",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 2020,
+    "type": "cruise",
+    "GT": 62048,
+    "DWT": 245437
+  },
+  {
+    "name": "Knock Nevis 357",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2015,
+    "type": "tanker",
+    "GT": 175403,
+    "DWT": 191830
+  },
+  {
+    "name": "Liberty 888",
+    "country": "France",
+    "flag": "fr.png",
+    "built": 2013,
+    "type": "fishing",
+    "GT": 149569,
+    "DWT": 33061
+  },
+  {
+    "name": "MSC Oscar 369",
+    "country": "South Korea",
+    "flag": "kr.png",
+    "built": 1999,
+    "type": "cargo",
+    "GT": 82905,
+    "DWT": 134459
+  },
+  {
+    "name": "Symphony of the Seas 412",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 2021,
+    "type": "cruise",
+    "GT": 231918,
+    "DWT": 158007
+  },
+  {
+    "name": "Jahre Viking 173",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2012,
+    "type": "tanker",
+    "GT": 136748,
+    "DWT": 242273
+  },
+  {
+    "name": "Pacific Knight 397",
+    "country": "Greece",
+    "flag": "gr.png",
+    "built": 2021,
+    "type": "fishing",
+    "GT": 173619,
+    "DWT": 139083
+  },
+  {
+    "name": "NYK Vega 557",
+    "country": "France",
+    "flag": "fr.png",
+    "built": 2023,
+    "type": "cargo",
+    "GT": 184063,
+    "DWT": 65326
+  },
+  {
+    "name": "AIDAnova 543",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 1993,
+    "type": "cruise",
+    "GT": 229243,
+    "DWT": 210144
+  },
+  {
+    "name": "Prairial 446",
+    "country": "Greece",
+    "flag": "gr.png",
+    "built": 2016,
+    "type": "tanker",
+    "GT": 69719,
+    "DWT": 32791
+  },
+  {
+    "name": "Endeavour 212",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 2005,
+    "type": "fishing",
+    "GT": 54391,
+    "DWT": 247475
+  },
+  {
+    "name": "MSC G\u00fcls\u00fcn 790",
+    "country": "Japan",
+    "flag": "jp.png",
+    "built": 2011,
+    "type": "cargo",
+    "GT": 83427,
+    "DWT": 45655
+  },
+  {
+    "name": "Wonder of the Seas 323",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 2005,
+    "type": "cruise",
+    "GT": 78420,
+    "DWT": 68005
+  },
+  {
+    "name": "TI Europe 804",
+    "country": "Japan",
+    "flag": "jp.png",
+    "built": 2007,
+    "type": "tanker",
+    "GT": 229326,
+    "DWT": 230508
+  },
+  {
+    "name": "American Dynasty 813",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2015,
+    "type": "fishing",
+    "GT": 116206,
+    "DWT": 163866
+  },
+  {
+    "name": "Madrid Maersk 242",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 1991,
+    "type": "cargo",
+    "GT": 54733,
+    "DWT": 232118
+  },
+  {
+    "name": "AIDAnova 348",
+    "country": "United Kingdom",
+    "flag": "gb.png",
+    "built": 2021,
+    "type": "cruise",
+    "GT": 156302,
+    "DWT": 279496
+  },
+  {
+    "name": "TI Europe 704",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 2016,
+    "type": "tanker",
+    "GT": 125455,
+    "DWT": 56582
+  },
+  {
+    "name": "Endeavour 680",
+    "country": "Germany",
+    "flag": "de.png",
+    "built": 2000,
+    "type": "fishing",
+    "GT": 101845,
+    "DWT": 235589
+  },
+  {
+    "name": "CMA CGM Marco Polo 640",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2012,
+    "type": "cargo",
+    "GT": 249596,
+    "DWT": 83287
+  },
+  {
+    "name": "Oasis of the Seas 944",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 1996,
+    "type": "cruise",
+    "GT": 194214,
+    "DWT": 268695
+  },
+  {
+    "name": "Jahre Viking 836",
+    "country": "South Korea",
+    "flag": "kr.png",
+    "built": 1993,
+    "type": "tanker",
+    "GT": 118555,
+    "DWT": 206234
+  },
+  {
+    "name": "Arctic Storm 269",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 2008,
+    "type": "fishing",
+    "GT": 189893,
+    "DWT": 249342
+  },
+  {
+    "name": "Ever Given 905",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2010,
+    "type": "cargo",
+    "GT": 140469,
+    "DWT": 48962
+  },
+  {
+    "name": "Carnival Vista 903",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 2000,
+    "type": "cruise",
+    "GT": 97093,
+    "DWT": 182418
+  },
+  {
+    "name": "Prairial 264",
+    "country": "Japan",
+    "flag": "jp.png",
+    "built": 2015,
+    "type": "tanker",
+    "GT": 143950,
+    "DWT": 78113
+  },
+  {
+    "name": "Northern Eagle 370",
+    "country": "China",
+    "flag": "cn.png",
+    "built": 2008,
+    "type": "fishing",
+    "GT": 60941,
+    "DWT": 251327
+  },
+  {
+    "name": "NYK Vega 385",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 2020,
+    "type": "cargo",
+    "GT": 85540,
+    "DWT": 16686
+  },
+  {
+    "name": "MSC Meraviglia 237",
+    "country": "Norway",
+    "flag": "no.png",
+    "built": 2016,
+    "type": "cruise",
+    "GT": 93112,
+    "DWT": 176385
+  },
+  {
+    "name": "Jahre Viking 951",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 2001,
+    "type": "tanker",
+    "GT": 189055,
+    "DWT": 18090
+  },
+  {
+    "name": "M/V Alaska Ocean 597",
+    "country": "Greece",
+    "flag": "gr.png",
+    "built": 2005,
+    "type": "fishing",
+    "GT": 222999,
+    "DWT": 54753
+  },
+  {
+    "name": "APL Merlion 258",
+    "country": "Japan",
+    "flag": "jp.png",
+    "built": 1996,
+    "type": "cargo",
+    "GT": 111020,
+    "DWT": 100214
+  },
+  {
+    "name": "Oasis of the Seas 326",
+    "country": "United States",
+    "flag": "us.png",
+    "built": 2023,
+    "type": "cruise",
+    "GT": 39579,
+    "DWT": 112937
+  },
+  {
+    "name": "DSME VLCC 110",
+    "country": "Italy",
+    "flag": "it.png",
+    "built": 1990,
+    "type": "tanker",
+    "GT": 164020,
+    "DWT": 221686
+  },
+  {
+    "name": "America's Finest 940",
+    "country": "South Korea",
+    "flag": "kr.png",
+    "built": 1991,
+    "type": "fishing",
+    "GT": 67105,
+    "DWT": 15974
+  }
+]

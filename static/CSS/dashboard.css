@@ -1,0 +1,149 @@
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to bottom right, #b2f1e2, #c4e9f8); /* minty gradient */
+  color: #333;
+}
+
+.dashboard-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+}
+
+.dashboard-row {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.dashboard-item {
+  flex: 1;
+  min-width: 300px;
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-item.wide {
+  flex: 2;
+}
+
+.main-content {
+  padding: 24px;
+  min-height: 100vh;
+  box-sizing: border-box;
+  overflow-y: auto;
+}
+
+.card {
+  background: white;
+  padding: 16px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+
+.card:hover {
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+.card h3 {
+  margin-top: 0;
+  font-size: 20px;
+  margin-bottom: 16px;
+  color: #333;
+}
+
+form.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input[type="text"], input[type="number"], input[type="date"], select {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 14px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+button[type="submit"] {
+  padding: 12px;
+  background-color: #f67b0f;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 15px;
+  cursor: pointer;
+  margin-top: 8px;
+  transition: background 0.2s;
+}
+
+button[type="submit"]:hover {
+  background-color: #f07912;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th, table td {
+  text-align: left;
+  padding: 10px;
+  border-bottom: 1px solid #e0e0e0;
+  font-size: 14px;
+}
+
+table th {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul li {
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+  font-size: 14px;
+  color: #555;
+}
+
+.analytics-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.chart-card {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  flex: 1;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.chart-card h3 {
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #333;
+}
+
+canvas {
+  width: 100% !important;
+  max-height: 300px;
+}
+
+
